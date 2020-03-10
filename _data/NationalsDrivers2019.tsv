@@ -1,0 +1,1253 @@
+DriverNumber	DriverName	DriverPosition	RaceClass	WonTrophy	IsDoubleDriving	DoubleDriverNumber	CarYear	Car	Region	Division	Tire	City	State
+197	Erik Strelnieks	1	Super Street	True	True	97	2017	Acura NSX	LnSt	Southwest	BFGoodrich	Austin	TX
+195	Monty Pack	2	Super Street	True	True	95	2018	Porsche GT3	SFR	NorPac	Multi	San Francisco	CA
+92	Doug Rowse	3	Super Street	True	False	0	2017	Chevrolet Corvette	AZ	SoPac	Bridgestone	Phoenix	AZ
+99	Ken Motonishi	4	Super Street	True	True	99	2015	Porsche GT3	CSCC	SoPac	Bridgestone	Trabuco Canyon	CA
+98	James Yom	5	Super Street	True	True	198	2019	Porsche GT3	CSCC	SoPac	BFGoodrich	Los Angeles	CA
+178	Brian Conners	6	Super Street	True	True	78	2011	Porsche GT3	PHL	Northeast	Multi	Philadelphia	PA
+95	Steve Lau	7	Super Street	True	True	195	2018	Porsche GT3	SanFranci	NorPac	Multi	San Jose	CA
+174	Chris Dressler	8	Super Street	True	True	74	2016	Porsche GT4	NEP	Northeast	BFGoodrich	Souderton	PA
+113	Ryan Miles	9	Super Street	False	True	13	2010	Porsche GT3	OVR	Midwest	Multi	granville	OH
+74	Joe Brennan	10	Super Street	True	True	174	2016	Porsche GT4	Colo	Rocky Moun	BFGoodrich	Thornton	Co
+96	Chris Dvorak	11	Super Street	True	True	196	2016	Porsche GT4	CHI	Central	Bridgestone	Addison	IL
+198	Joshua Lipman	12	Super Street	True	True	98	2019	Porsche 911 GT3	NYR	Northeast	BFGoodrich	Oyster Bay Cove	NY
+117	Dean Rindler	13	Super Street	True	True	17	2017	Acura NSX	NOW	Great Lakes	Multi	Sidney	OH
+97	Troy Dudley	14	Super Street	True	True	197	2017	Acura NSX	Tex	Southwest	BFGoodrich	Round Rock	TX
+13	Daniel Shea	15	Super Street	True	True	113	2010	Porsche GT3	OVR	Great Lakes	Multi	Powell	OH
+162	Nicholas Zelisko	16	Super Street	True	True	62	2016	Porsche Cayman gt4	INR	Great Lakes	Bridgestone	Valparaiso	IN
+191	Zach Rupcic	17	Super Street	True	True	91	2017	Chevrolet Corvette	Gr	Great Lakes	BFGoodrich	Fowlerville	MI
+183	Paul Dornburg	18	Super Street	True	True	83	2018	Porsche 718 Cayman G	SIR	Great Lakes	Bridgestone	Owensboro	KY
+196	Shawn Folkes	19	Super Street	True	True	96	2016	Porsche Cayman GT4	CHI	Great Lakes	Bridgestone	Hawthorn Woods	IL
+62	Kevin Kirchoff	20	Super Street	True	True	162	2016	Porsche GT4	INR	Great Lakes	Bridgestone	Valparaiso	IN
+17	Joel Zeller	21	Super Street	True	True	117	2017	Acura NSX	NOW	Great Lakes	Multi	Bellefontaine	OH
+182	Chris Biddle	22	Super Street	True	True	82	2016	Chevrolet Corvette Z0	DET	Midwest	Bridgestone*	Ann Arbor	MI
+91	Andy Hamley	23	Super Street	True	True	191	2017	Chevrolet Corvette Gr	DET	Great Lakes	BFGoodrich	Commerce Township	MI
+82	Eddie Franklin Jr	24	Super Street	True	True	182	2016	Chevrolet Corvette Z0	DET	Midwest	Bridgestone	Westland	MI
+78	Pat Salerno	26	Super Street	True	True	178	2011	Porsche GT3	NYR	Northeast	Multi	Danbury	CT
+95	Tara Shapowal	1	Super Street Ladies	True	False	0	2018	Porsche GT3	SanFransc	NorPac	Multi	San Jose	CA
+197	Iven Dudley	2	Super Street Ladies	True	True	97	2017	Acura	NSX	Southwest	BFGoodrich	Round Rock	TX
+13	Kathi Van Der Werf	3	Super Street Ladies	False	False	0	2018	Porsche Cayman GTS	AZB	Southwest	Bridgestone	Flagstaff	AZ
+97	Amy Burton	4	Super Street Ladies	False	True	197	2017	Acura NSX	LnSt	Southwest	BFGoodrich	Austin	TX
+99	Julie Starr	5	Super Street Ladies	False	False	0	2017	Chevrolet Corvette Gr	DET	Great Lakes	BFGoodrich	Farmington Hills	MI
+183	Josh Luster	1	A Street	True	True	83	2009	Chevrolet Corvette Z0	WDC	Northeast	Yokohama*	Charlotte	NC
+198	Vivek Goel	2	A Street	False	True	98	2009	Chevrolet Corvette Z0	LnSt	Southwest	Bridgestone*	Austin	TX
+95	Greg Janulis	3	A Street	False	True	95	2014	Porsche Cayman S	Milw	Central	Yokohama*	Bolingbrook	IL
+29	Cam Withell	4	A Street	False	True	129	2004	Chevrolet Corvette	Nwst	Rocky Moun	Yokohama	Chestermere	AB
+85	Dan Bullis	5	A Street	False	True	185	2007	Chevrolet Z06	Ore	NorPac	Yokohama*	Vancouver	WA
+82	Danny Gross	6	A Street	False	True	182	2010	Chevrolet Corvette	CSCC	Southeast	Yokohama*	Costa Mesa	CA
+149	Landon Thompson	7	A Street	False	True	49	2013	Chevrolet Corvette	Hous	Southwest	Bridgestone	Spring	TX
+18	Kit Gauthier	8	A Street	False	False	0	2017	Porsche Cayman	Nwst	NorPac	Yokohama*	Kirkland	WA
+185	Tom DeYoung	9	A Street	False	True	85	2007	Chevrolet Corvette Z0	STL	Midwest	Yokohama*	Saint Louis	MO
+182	Matt Jones	10	A Street	True	True	82	2010	Chevrolet Corvette GS	CSCC	Southwest	Yokohama*	San Diego	CA
+171	William Bostic	11	A Street	True	True	71	2003	Chevrolet Corvette Z0	CCR	Southeast	BFGoodrich	Simpsonville	SC
+196	Yury Kholondyrev	12	A Street	True	True	96	2018	Porsche Cayman	NNJ	Northeast	BFGoodrich	Bronxville	NY
+170	Dan Simms	13	A Street	True	True	70	2009	Chevrolet Corvette Z0	CHI	Central	BFGoodrich	Villa Park	IL
+71	John Wolf	14	A Street	True	True	171	2003	Chevrolet Corvette Z0	CCR	Southeast	BFGoodrich	Raleigh	NC
+194	Charles Krampert	15	A Street	True	True	94	2006	Chevrolet Corvette Z0	TVR	Southeast	BFGoodrich	Huntsville	AL
+98	Troy Acosta	16	A Street	True	True	198	2009	Chevrolet Corvette Z0	LnSt	Southwest	Bridgestone*	Austin	TX
+79	Erik Carlson	17	A Street	True	True	179	2006	Chevrolet Corvette Z0	NER	Northeast	BFGoodrich	Meriden	CT
+179	Todd Kean	18	A Street	True	True	79	2006	Chevrolet Corvette Z0	NER	Northeast	BFGoodrich	Wallingford	CT
+84	David Green	19	A Street	True	False	0	2008	Chevrolet Corvette Z0	WICH	Midwest	Yokohama*	Wichita	KS
+176	David Entz	20	A Street	False	True	76	2004	Chevrolet Corvette Z0	TEN	Southeast	Bridgestone	Nashville	TN
+94	Chris Sparks	21	A Street	False	True	194	2006	Chevrolet Corvette Z0	TVR	Southeast	BFGoodrich	Madison	AL
+76	Justin Batten	22	A Street	False	True	176	2004	Chevrolet Corvette Z0	TEN	Southeast	Bridgestone	Mount Juliet	TN
+83	Mark Labbancz	23	A Street	False	True	183	2009	Chevrolet Corvette Z0	NNJ	Northeast	Yokohama*	Robbinsville	NJ
+99	Hank Wallace	24	A Street	False	False	0	2007	Chevrolet Corvette Z0	NER	Northeast	BFGoodrich	Framingham	MA
+86	Kevin Wenzel	25	A Street	False	False	0	2004	Chevrolet Corvette Z0	Colo	Rocky Moun	Yokohama*	Black Forest	CO
+142	Ryan Clark	26	A Street	False	True	42	2015	Porsche Cayman	Nwst	NorPac	Bridgestone	Calgary	AB
+96	William Petrow	27	A Street	False	True	196	2018	Porsche Cayman	NNJ	Northeast	BFGoodrich	Union City	NJ
+89	Jason Ruggles	28	A Street	False	True	189	2003	Chevrolet Corvette	Z0	Unknown	BFGoodrich		BF
+90	Andrew Francis	29	A Street	False	True	190	2003	Chevrolet Corvette Z0	CHI	Central	Yokohama*	Palatine	IL
+197	Jerry Centanni	30	A Street	False	True	97	2009	Chevrolet Z06	LnSt	Southwest	Bridgestone	Austin	TX
+190	William Damhoff	31	A Street	False	True	90	2003	Chevrolet Corvette Z0	CHI	Midwest	Yokohama*	Orland Park	IL
+153	David White	32	A Street	False	True	53	2006	Chevrolet corvette z06	NER	Northeast	BFGoodrich	Rutland	MA
+70	Joshua Pertzsch	33	A Street	False	True	170	2009	Chevrolet Corvette Z0	IND	Great Lakes	BFGoodrich	Franklin	IN
+53	Justin Lau	34	A Street	False	True	153	2006	Chevrolet Corvette Z0	NER	Northeast	BFGoodrich	Fairfield	CT
+97	Rick Martinez	35	A Street	False	True	197	2009	Chevrolet Corvette Z0	LnSt	Southwest	Bridgestone	Leander	TX
+65	David Finchum	36	A Street	False	False	0	2004	Chevrolet Corvette Z0	CHI	Central	Yokohama*	Bolingbrook	IL
+43	John Smith	37	A Street	False	False	0	2008	Chevrolet Corvette Z0	LnSt	Southwest	BFGoodrich	Round Rock	TX
+56	Casey Weiss	38	A Street	False	False	0	2004	Chevrolet Corvette Z0	Tex	Southwest	Bridgestone	Carrollton	TX
+42	Wayne Dyck	39	A Street	False	True	142	2015	Porsche Cayman	Nwst	NorPac	Bridgestone	Calgary	AB
+192	Martin Montagno	40	A Street	False	True	92	2002	Chevrolet Corvette Z0	STL	Midwest	Bridgestone	Saint Louis	MO
+47	Aaron Botnick	41	A Street	False	False	0	2008	Chevrolet Corvette Z5	Colo	Rocky Moun	Bridgestone*	Arvada	CO
+6	Stephen Fehr	42	A Street	False	False	0	2010	Porsche Boxster S	ODR	Southeast	Bridgestone	Chesapeake	VA
+55	Chris Wheelock	43	A Street	False	True	155	2009	Chevrolet Corvette Z0	Texas	Southwest	Bridgestone	Ft. Worth	TX
+63	Frank Wietharn	44	A Street	False	False	0	2007	Chevrolet Corvette Z0	KAN	Midwest	Bridgestone*	Topeka	KS
+135	Nicholas Phillips	45	A Street	False	True	35	2012	Chevrolet Corvette GS	STC	Northeast	Bridgestone	Butler	PA
+17	Devin McCuen	46	A Street	False	False	0	2009	Chevrolet Corevette	SBR	Great Lakes	BFGoodrich	Mishawaka	In
+37	James Wilson	47	A Street	False	False	0	2011	Porsche Cayman S	RioG	Southwest	Bridgestone*	Albuquerque	NM
+114	Chris Deacon	48	A Street	False	True	14	2004	Chevrolet Corvette	Badl	Central	Bridgestone	Winnipeg	MB
+155	Tom Bergeron	49	A Street	False	True	55	2009	Chevrolet Corvette Z0	Texas	Southwest	Bridgestone	Shady Shores	TX
+88	James King	50	A Street	False	False	0	2004	Chevrolet Corvette Z0	KCR	Midwest	Bridgestone	Liberty	Mo
+189	Jim Fossum	51	A Street	False	True	89	2003	Chevrolet Corvette Z0	Atl	Southeast	BFGoodrich	Simpsonville	SC
+81	Ken Pike	52	A Street	False	False	0	2003	Chevrolet Corvette Z0	Colo	Rocky Moun	BFGoodrich	Thornton	CO
+93	Eric Jones	53	A Street	False	False	0	2016	Porsche Cayman S	LnSt	Southwest	Bridgestone	Cedar Park	TX
+187	Mark Sarcevicz	54	A Street	False	True	87	2002	Chevrolet Corvette Z0	NNJ	Northeast	BFGoodrich	Arlington	MA
+129	Tom Kotzian	55	A Street	False	True	29	2004	Chevrolet	Corvette	Unknown	Yokohama	Gladstone	OR
+14	Tim Robinson	56	A Street	False	True	114	2004	Chevrolet Corvette Z0	Badl	Central	Bridgestone	Winnipeg	MB
+87	Derek Sivret	57	A Street	False	True	187	2002	Chevrolet Corvette z0	NER	Northeast	BFGoodrich	Southwick	MA
+91	Andy Seipos	58	A Street	False	False	0	2016	Chevrolet Corvette Z5	CHI	Central	Bridgestone*	Chicago	IL
+144	Johnny Foesch	59	A Street	False	True	44	2004	Chevrolet Corvette Z0	Milw	Central	Bridgestone	Oconomowoc	WI
+49	Alex Dalgleish	60	A Street	False	True	149	2013	Chevrolet 427	Hous	Southwest	Bridgestone	Magnolia	TX
+35	Dan Parker	61	A Street	False	True	135	2012	Chevrolet Corvette Gr	STC	Northeast	Bridgestone	Greensboro	PA
+146	Dave Williamson	62	A Street	False	True	46	2007	Chevrolet Corvette Z0	NER	Northeast	BFGoodrich	Trumbull	CT
+126	Tim Sholar	63	A Street	False	True	26	2003	Chevrolet Corvette Z0	CIN	Great Lakes	BFGoodrich	Fort Thomas	KY
+26	Kent Weaver	64	A Street	False	True	126	2003	Chevrolet Z06 Corvet	CIN	Great Lakes	BFGoodrich	Beavercreek	OH
+92	Keath Marx	65	A Street	False	True	192	2002	Chevrolet Corvette Z0	Tex	Southwest	Bridgestone	Fort Worth	Tx
+4	Robby Helms	66	A Street	False	False	0	2003	Chevrolet Corvette Z0	CCR	Southeast	BFGoodrich	Monroe	NC
+7	Henry Siddeley	67	A Street	False	False	0	2002	Chevrolet Corvette Z0	WDC	Northeast	BFGoodrich	Montross	VA
+19	Rob Bealer	68	A Street	False	False	0	2019	BMW M2 Competit	GtRv	Central	Bridgestone*	Geneseo	IL
+44	John Foesch	69	A Street	False	True	144	2004	Chevrolet Corvette Z0	Milw	Central	Bridgestone	Oconomowoc	WI
+77	John McCarthy	70	A Street	False	True	77	2003	Chevrolet Corvette Z0	SIR	Great Lakes	Bridgestone*	Jasper	IN
+46	John Williamson	71	A Street	False	True	146	2007	Chevrolet Corvette ZO	NER	Northeast	BFGoodrich	Trumbull	CT
+99	Lana Tsurikova	1	A Street Ladies	True	False	0	2007	Chevrolet Corvette Z0	NER	Northeast	BFGoodrich	Framingham	MA
+192	Carla Russo	2	A Street Ladies	True	True	92	2002	Chevrolet Corvette Z0	STL	Midwest	Bridgestone	Hazelwood	MO
+92	Donna Marx	3	A Street Ladies	False	True	192	2002	Chevrolet Corvette Z0	Tex	Southwest	Bridgestone	Fort Worth	Tx
+71	Molly Thore	4	A Street Ladies	False	True	171	2003	Chevrolet Corevette	CCR	Southeast	BFGoodrich	Greensboro	NC
+91	Melissa Fehr	5	A Street Ladies	False	False	0	2010	Porsche Boxster S	ODR	Southeast	Bridgestone	Chesapeake	VA
+171	Brittany Edwards	6	A Street Ladies	False	True	71	2003	Chevrolet Corvette Z0	NCR	Southeast	BFGoodrich	Jamestown	NC
+199	David Marcus	1	B Street	True	True	99	2019	Tesla Model 3	FLA	Southeast	Bridgestone	Windermere	FL
+27	Mark Daddio	2	B Street	False	False	0	2019	Ford Mustang Shelby G	NER	Northeast	BFGoodrich	Seymour	CT
+81	Donour Sizemore	3	B Street	False	False	0	2011	Lotus Evora	RioG	Rocky Moun	Bridgestone*	New York City	NY
+92	Trevor Jones	4	B Street	False	True	192	2018	Ford Focus RS	CFR	Southeast	Yokohama*	Wimauma	FL
+87	Jay Balducci	5	B Street	False	True	187	2016	BMW M2	AZB	SoPac	Bridgestone	Chandler	AZ
+80	Jeremy Foley	6	B Street	False	True	180	2011	BMW 1M	Tex	Southwest	Yokohama*	Carrollton	TX
+175	Gregory Shumaker	7	B Street	False	True	75	2017	Chevrolet Camaro SS 1	CFR	Southeast	BFGoodrich	Orlando	FL
+86	Justin Moore	8	B Street	False	False	0	2006	Porsche Banana S	SFR	NorPac	Bridgestone	San Jose	CA
+99	Laura Campbell	9	B Street	False	True	199	2019	Tesla Model 3	TVR	Southeast	Bridgestone	Windermere	FL
+74	Sebastian Rios	10	B Street	True	False	0	2006	Porsche Cayman S	CSCC	SoPac	Multi	Corona	CA
+75	Terry Tabor	11	B Street	True	True	175	2017	Chevrolet Camaro SS 1	CFR	Southeast	BFGoodrich	Palm Bay	FL
+187	Jason Bucki	12	B Street	True	True	87	2016	BMW M2	AZ	SoPac	Bridgestone	Phoenix	AZ
+3	Dean Rhodes	13	B Street	True	False	0	2018	Tesla 3	STL	Midwest	Bridgestone	Manchester	MO
+192	Stuart King	14	B Street	True	True	92	2018	Ford Focus RS	DET	Great Lakes	Yokohama*	Ypsilanti	MI
+11	KJ Christopher	15	B Street	False	False	0	2018	Chevrolet Camaro SS 1	Tex	Southwest	Bridgestone	Rowlett	tx
+83	Talha Sadik	16	B Street	False	True	183	2018	BMW M4	NNJ	Northeast	Bridgestone	Hamburg	NJ
+194	Barry Greenaway	17	B Street	False	True	94	2018	Chevrolet Camaro SS 1	WNY	Northeast	BFGoodrich	Cambridge	ON
+57	Paul Dodd	18	B Street	False	True	157	2007	Porsche Cayman S	RioG	Rocky Moun	Bridgestone*	Albuquerque	NM
+93	Brad Moore	19	B Street	False	False	0	2018	BMW M2	Milw	Central	Bridgestone	Wauwatosa	WI
+180	Kerry Emmert	20	B Street	False	True	80	2011	BMW	1M	Midwest	Yokohama*	hot springs	AR
+76	Alex Shchipkov	21	B Street	False	True	176	2018	BMW M3	MHR	Northeast	BFGoodrich	Clifton Park	NY
+88	Jeremy Pittenger	22	B Street	False	False	0	2019	Chevrolet Camaro SS 1	NNJ	Northeast	Bridgestone	Newton	NJ
+176	Eric Campbell	23	B Street	False	True	76	2018	BMW M3	OVR	Great Lakes	BFGoodrich	Canal Winchester	OH
+96	Christopher Heinzen	24	B Street	False	True	196	2019	Chevrolet Camaro SS 1	DET	Great Lakes	BFGoodrich	Lake Orion	MI
+97	Tom Kerns	25	B Street	False	False	0	2018	Audi RS3	Nwst	NorPac	Bridgestone	Sturgeon County	AB
+183	Christopher Laprus	26	B Street	False	True	83	2018	BMW M4	NNJ	Northeast	Bridgestone	Fairfield	NJ
+98	Paul Brown	27	B Street	False	False	0	2018	BMW M2	RioG	Rocky Moun	Yokohama*	Los Alamos	NM
+112	Tom Grzesiak	28	B Street	False	True	12	2017	Chevy Camaro SS 1L	Nwst	Rocky Moun	Bridgestone	Calgary	AB
+69	Nigel Fenwick	29	B Street	False	False	0	2008	Porsche Boxster S	NER	Northeast	Bridgestone	Duxbury	MA
+94	Mike Physk	30	B Street	False	True	194	2018	Chevrolet Camaro SS 1	NYR	Northeast	BFGoodrich	Long Sault	ON
+190	Chris Cox	31	B Street	False	True	90	2019	Tesla Model 3 San	Franc	NorPac	Bridgestone*	Morgan Hill	CA
+90	Pilar Miranda	32	B Street	False	True	190	2019	Telsa Model 3 San	Franc	NorPac	Bridgestone*	Morgan Hill	CA
+196	Cody Pae	33	B Street	False	True	96	2019	Chevrolet Camaro SS 1	DET	Great Lakes	BFGoodrich	Royal Oak	MI
+56	Cullen Murphy	34	B Street	False	False	0	2018	Tesla Performance Mo	LOL	Central	Bridgestone	Minneapolis	MN
+30	Jason Froehlich	35	B Street	False	False	0	2002	Chevrolet Corvette	Milw	Central	Bridgestone	West Allis	WI
+178	Aditya Madhavan	36	B Street	False	True	78	2007	Porsche Cayman S	Atl	Southeast	Bridgestone	Marietta	GA
+66	Marc Segal	37	B Street	False	False	0	2018	BMW M2	LV	SoPac	Bridgestone	Las Vegas	NV
+95	Brent Seaton	38	B Street	False	False	0	2017	Chevrolet Camaro SS	Iowa	Midwest	Bridgestone*	Mason City	IA
+189	Jennifer Merideth	39	B Street	False	True	89	2016	Ford Mustang GT350	DET	Great Lakes	BFGoodrich	Westland	MI
+63	Jade Wiegel	40	B Street	False	False	0	2019	Subaru WRX STi	Iowa	Midwest	Bridgestone	Shullsburg	WI
+13	Eric Moe	41	B Street	False	True	13	2018	Chevrolet Camaro SS 1	KCR	Midwest	Goodyear	Liberty	MO
+12	Chris Sun	42	B Street	False	True	112	2017	Chevrolet Camaro SS	Nwst	NorPac	Bridgestone	Calgary	AB
+78	Blair Deffenbaugh	43	B Street	False	True	178	2007	Porsche Caymen	NCR	Southeast	Bridgestone	Sylva	NC
+64	Jonathan Crowe	44	B Street	False	False	0	2006	Porsche Cayman S	SIR	Midwest	Bridgestone	Newburgh	IN
+72	James Harrison	45	B Street	False	False	0	2007	Porsche Cayman S	WICH	Midwest	Bridgestone*	Wichita	KS
+17	Roland Wallner	46	B Street	False	False	0	2006	Porsche Cayman S	ODR	Southeast	Bridgestone*	Smithfield	VA
+185	Sean Scott	47	B Street	False	True	85	2018	Chevrolet Camaro	ETR	Southwest	Bridgestone*	LaFollette	TN
+85	Randy Keeton	48	B Street	False	True	185	2018	Chevrolet Camaro SS	NEOK	Midwest	Bridgestone*	Tulsa	OK
+89	Marcus Merideth	49	B Street	False	True	189	2016	Ford Mustang GT350	DET	Great Lakes	BFGoodrich	Westland	MI
+136	Brian Anderson	50	B Street	False	True	36	2017	BMW M2	Mont	Rocky Moun	Bridgestone	Canmore	AB
+36	Yvonne Anderson	51	B Street	False	True	136	2017	BMW M2	Mont	Rocky Moun	Bridgestone	Canmore	AB
+45	Jeff Robinson	52	B Street	False	False	0	2008	Porsche Cayman S	OVR	Great Lakes	Bridgestone	Hilliard	OH
+70	Rick Blair	53	B Street	False	False	0	2007	Porsche Cayman S	CFR	Southeast	Bridgestone*	Oviedo	FL
+198	Youmna Zalzal	1	B Street Ladies	True	True	98	2006	Porsche Cayman S	SFR	NorPac	Bridgestone	San Jose	CA
+194	Dina ODonnell	2	B Street Ladies	True	True	94	2018	Chevrolet Camaro SS1	NOW	Great Lakes	BFGoodrich	Toronto	ON
+97	Shauna Rios	3	B Street Ladies	True	False	0	2006	Porsche Cayman S	CSCC	SoPac	Bridgestone	Corona	CA
+93	Meredith Brown	4	B Street Ladies	True	False	0	2018	BMW M2	RioG	Rocky Moun	Yokohama*	Los Alamos	NM
+94	Becca Nell	5	B Street Ladies	False	True	194	2018	Chevrolet Camaro 1SS	NER	Northeast	BFGoodrich	Norwalk	CT
+98	Kristen Moore	6	B Street Ladies	False	True	198	2006	Porsche Banana S	SFR	NorPac	Bridgestone	San Jose	CA
+66	Suzanne Segal	7	B Street Ladies	False	False	0	2018	BMW M2	LV	SoPac	Bridgestone	Las Vegas	NV
+72	Valerie Malaney	8	B Street Ladies	False	False	0	2019	Chevrolet Camaro SS 1	DET	Great Lakes	BFGoodrich	West Bloomfield	MI
+60	Marcia Haynes	9	B Street Ladies	False	False	0	2001	Chevrolet corvette	NEB	Midwest	Bridgestone	Kearney	NE
+69	Susan Fenwick	10	B Street Ladies	True	False	0	2008	Porsche Boxster S	NER	Northeast	Bridgestone	Duxbury	MA
+29	Elizabeth Leckey	11	B Street Ladies	True	False	0	2018	Ford Focus RS	DET	Great Lakes	Yokohama*	Ann Arbor	MI
+149	Mark Scroggs	1	C Street	True	True	49	2019	Mazda Miata	SFR	NorPac	Bridgestone	San Ramon	CA
+193	Ken Houseal	2	C Street	True	True	93	2019	Mazda Miata	PHL	Northeast	Bridgestone	Royersford	PA
+197	Darrin DiSimo	3	C Street	True	True	97	2019	Mazda Miata	FLA	Southeast	Yokohama*	Coral Springs	FL
+94	Jonathan Lugod	4	C Street	True	False	0	2019	Mazda ND2	CSCC	SoPac	Bridgestone	Gardena	CA
+82	William Keese	5	C Street	True	False	0	2019	Mazda Miata	CHI	Central	Bridgestone	Lockport	IL
+93	Jon Caserta	6	C Street	True	True	193	2019	Mazda MX-5	PHL	Northeast	Bridgestone	Phoenixville	PA
+55	Paul Frey	7	C Street	True	False	0	2019	Mazda MX-5	NEB	Midwest	Yokohama*	Bellevue	NE
+48	Will Teller	8	C Street	True	True	148	2019	Mazda Miata	ODR	Southeast	Yokohama*	Norfolk	VA
+37	Ben Pullen	9	C Street	True	False	0	2008	Honda s2000	CKY	Great Lakes	Bridgestone	Redmond	WA
+148	Will King	10	C Street	True	True	48	2019	Mazda Miata	BRR	Southeast	Yokohama	Charlottesville	VA
+142	Timothy Maxey	11	C Street	True	True	42	2019	Mazda Miata	CCR	Southeast	Yokohama	Greensboro	Nc
+97	Robert Palmblad	12	C Street	True	True	197	2019	Mazda MX-5	CFR	Southeast	Yokohama*	Orlando	FL
+1	Kevin Kent	13	C Street	True	False	0	2005	Honda S2000	IND	Great Lakes	Bridgestone	Indianapolis	IN
+198	Rick Cone	14	C Street	True	True	98	2019	Mazda Miata	Atl	Southeast	Bridgestone	Lawrenceville	GA
+179	Ricky Crow	15	C Street	True	True	79	2019	Mazda MX-5	Almo	Southwest	Bridgestone*	Bulverde	TX
+49	Des Toups	16	C Street	True	True	149	2019	Mazda Miata	Nwst	NorPac	Bridgestone	Vancouver	WA
+89	Kenneth Baker	17	C Street	True	False	0	2016	Mazda MX-5	Tex	Southwest	Bridgestone	Fort Worth	TX
+88	Jim Zeisler	18	C Street	True	False	0	2019	Mazda Miata	CIN	Great Lakes	Yokohama*	Cincinnati	OH
+85	Dan Fillingim	19	C Street	True	False	0	2019	Mazda MX5 Miata	NER	Northeast	Bridgestone	Nashua	NH
+69	Paul Mihalyov	20	C Street	True	False	0	2019	Mazda MX5	CHI	Central	Bridgestone*	Carol Stream	IL
+196	Chuck Hanson	21	C Street	True	True	96	2019	Mazda MX5	RioG	Rocky Moun	Bridgestone	Albuquerque	NM
+41	Craig Carr	22	C Street	True	False	0	2016	Mazda MX-5	NOW	Great Lakes	Bridgestone	Youngstown	OH
+42	Raymond Schumin	23	C Street	True	True	142	2019	Mazda MX-5 Club	BRR	Southeast	Yokohama	Stuarts Draft	VA
+96	Rich Fletcher	24	C Street	True	True	196	2019	Mazda MX-5	RioG	Rocky Moun	Bridgestone	Durango	CO
+98	Larry Pulliam	25	C Street	True	True	198	2019	Mazda Miata	Atl	Southeast	Bridgestone	Oxford	GA
+79	Federico Del Toro	26	C Street	True	True	179	2019	Mazda mx5	Almo	Southwest	Bridgestone*	San Antonio	TX
+122	Victor Tugulan	27	C Street	True	True	22	2019	Mazda MX-5	SVR	Great Lakes	BFGoodrich	Redford	MI
+84	John Wiseman	28	C Street	True	False	0	2002	Honda S2000	NOW	Great Lakes	Bridgestone*	Copley	OH
+22	Ed Prymak	29	C Street	True	True	122	2019	Mazda	MX	Great Lakes	BFGoodrich	Redford	MI
+28	Mark Stocku	30	C Street	True	False	0	2019	Mazda Miata	CPR	Northeast	Bridgestone	State College	PA
+8	Jeffrey Sauter	31	C Street	True	False	0	2005	Honda S2000	NOW	Great Lakes	Bridgestone	Troy	OH
+46	Bradley Wickersham	32	C Street	True	False	0	2017	Subaru BRZ LTD Perf	LOL	Midwest	Dunlop*	La Crosse	WI
+94	Jessica Yeung	1	C Street Ladies	True	False	0	2019	Mazda MX-5	CSCC	SoPac	Bridgestone	Rosemead	CA
+88	Shari McCoy	2	C Street Ladies	True	False	0	2019	Mazda MX-5 Miata	CIN	Great Lakes	Yokohama*	Cincinnati	OH
+84	Langlee King	3	C Street Ladies	False	False	0	2019	Mazda Miata	BRR	Southeast	Yokohama*	Blacksburg	VA
+99	Marchell Fletcher	4	C Street Ladies	False	False	0	2019	Mazda MX5	RioG	Rocky Moun	Bridgestone	Durango	CO
+86	Katie Calvert	5	C Street Ladies	False	False	0	2005	Honda S2000	NOW	Midwest	Bridgestone	Ostrander	OH
+67	Carol Cone	6	C Street Ladies	False	False	0	2019	Mazda Miata	Atl	Southeast	Bridgestone	Snellville	GA
+53	Mike Leeder	1	D Street	True	False	0	2019	Honda Civic Type-R	Milw	Central	Bridgestone	Madison	WI
+125	Kenneth Tsang	2	D Street	False	True	25	2018	Honda Civic Type R	DET	Great Lakes	Bridgestone	Ann Arbor	MI
+94	Steven Umholtz	3	D Street	False	False	0	2016	Ford Focus RS	NEB	Midwest	Yokohama	Lincoln	NE
+79	Ryan Otis	4	D Street	False	False	0	2016	Ford Focus RS	Ore	NorPac	Yokohama	Scappoose	OR
+99	Mike King	5	D Street	False	True	199	2016	Ford Focus RS	Bucc	Southeast	Bridgestone	Saint Johns	FL
+24	Neil Britton	6	D Street	False	False	0	2017	Chevrolet Camaro LT	DET	Great Lakes	Bridgestone	Berkley	Mi
+195	Javier Reynoso	7	D Street	False	True	95	2018	Honda Civic type R	LnSt	Southwest	Bridgestone	Austin	Tx
+180	David Lineberry	8	D Street	False	True	80	2016	Ford Focus RS	CFR	Southeast	Yokohama	Riverview	FL
+97	Aaron Buckley	9	D Street	False	False	0	2008	Audi TT	NCR	Southeast	Yokohama	Matthews	NC
+21	Brandon Dan	10	D Street	True	False	0	2018	Honda Civic Type R	Tex	Southwest	Yokohama*	Dallas	TX
+59	Bruno Lajoie	11	D Street	True	True	159	2018	Honda Civic Type R	NER	Northeast	Bridgestone	La Prairie	QC
+25	Jen Wong	12	D Street	True	True	125	2018	Honda Civic Type R	DET	Great Lakes	Bridgestone	Rochester	MI
+187	Brady Loretz	13	D Street	True	True	87	2019	Hyundai Veloster N	ARK	Midwest	Bridgestone	Sheridan	AR
+193	Alan Eisenreich	14	D Street	True	True	93	2016	Audi S3	STC	Northeast	BFGoodrich	Wexford	PA
+87	Nicholas Mellenthin	15	D Street	False	True	187	2019	Hyundai Veloster	ARK	Central	Bridgestone	Maumelle	AR
+159	Carl Wener	16	D Street	False	True	59	2018	Honda Civic Type R	NER	Northeast	Bridgestone	Montreal	Qc
+80	Ben Bulthuis	17	D Street	False	True	180	2016	Ford Focus RS	Bucc	Southeast	Yokohama	Apex	NC
+86	Drew Tonnesen	18	D Street	False	False	0	2017	Ford Focus RS	CHI	Midwest	Bridgestone	Island Lake	IL
+43	Thomas Lewis	19	D Street	False	False	0	2016	Ford Focus RS	Colo	Rocky Moun	Bridgestone	Golden	CO
+6	Myke Dziengel	20	D Street	False	False	0	2015	Subaru STi	CIN	Great Lakes	Bridgestone	Waynesville	OH
+95	Zachary Baumgardner	21	D Street	False	True	195	2018	Honda Civic Type R	Almo	Midwest	Bridgestone	San Antonio	TX
+54	Michael Parker	22	D Street	False	False	0	2019	Honda Civic Type R	HI	SoPac	Bridgestone	Kailua	HI
+9	Steven Matchett	23	D Street	False	False	0	2016	Ford Focus RS	STC	Northeast	BFGoodrich	Morgantown	WV
+103	Lawrence Danton	24	D Street	False	True	3	2017	Ford Focus RS	Nwst	NorPac	Bridgestone	Ellensburg	WA
+55	Dennis Sparks	25	D Street	False	True	155	2018	Subaru WRX Perform	TVR	Southeast	Bridgestone	Madison	AL
+191	Andy Hollis	26	D Street	False	True	91	2017	Honda Civic Type R	LnSt	Southwest	Bridgestone	Austin	TX
+162	Keith Papulski	27	D Street	False	True	62	2013	Audi TTS Roadster	Colo	Rocky Moun	Bridgestone	Morrison	CO
+66	Kyle Greene	28	D Street	False	False	0	2018	Honda Civic Type R	LOL	Central	Bridgestone	Apple Valley	MN
+62	Sir Van Townsend	29	D Street	False	True	162	2013	Audi TTS Roadster	Colo	Rocky Moun	Bridgestone	Fairplay	CO
+23	Matthew Grainger	30	D Street	False	False	0	2018	Honda Civic Type R	STL	Midwest	BFGoodrich	Weston	MO
+32	Sang Yi	31	D Street	False	False	0	2011	Mitsubishi Lancer Evo	SJR	Northeast	Bridgestone	Voorhees	NJ
+155	Jordan Towns	32	D Street	False	True	55	2018	Subaru WRX Perform	ALA	Southeast	Bridgestone	Auburn	AL
+93	Bob Smith	33	D Street	False	True	193	2016	Audi S3	STC	Northeast	BFGoodrich	MArs	PA
+83	Steven Clark	34	D Street	False	False	0	2009	Chevrolet Cobalt SS	Colo	Rocky Moun	Bridgestone	Lakewood	CO
+92	John LaRandeau	35	D Street	False	False	0	2008	Audi TT Quattro	NEB	Midwest	Bridgestone	Omaha	NE
+19	Brian Strack	36	D Street	False	False	0	2018	Volkswagen Golf R	KAN	Midwest	Bridgestone	Fairway	KS
+78	Robert Zander	37	D Street	False	False	0	2006	Nissan 350Z	STL	Midwest	Bridgestone	Saint Louis	MO
+98	Clyde Caplan	38	D Street	False	True	98	2017	Chevrolet Camaro	WDC	Northeast	Bridgestone	Silver Spring	MD
+89	Glenn Austin	39	D Street	False	False	0	2005	Nissan 350Z	SFR	NorPac	Bridgestone	Morgan Hill	CA
+57	Jessica Black	40	D Street	False	False	0	2006	Mitsubishi EVO 9 MR	CPR	Northeast	Bridgestone	Alexandria	PA
+96	Andrew Schembri	41	D Street	False	True	196	2019	Chevrolet Camaro LT	DET	Great Lakes	Bridgestone	West Bloomfield	MI
+31	Steven Salisbury	42	D Street	False	False	0	2018	Chevrolet Camaro	WDC	Northeast	Bridgestone	Baldwin	MD
+169	Joseph Austin	43	D Street	False	True	69	2008	Chevrolet Cobalt	Dix	Northeast	Bridgestone	NEWBURGH	NY
+196	Aaron Linke	44	D Street	False	True	96	2019	Chevrolet Camaro LT 1	WMR	Great Lakes	Bridgestone	Battle Creek	MI
+15	Cody Switzer	45	D Street	False	False	0	2016	Ford Focus	Tex	Southwest	Bridgestone	Frisco	TX
+3	Scott Bliler	46	D Street	False	True	103	2017	Ford Focus RS	Nwst	NorPac	Bridgestone	Benton City	WA
+88	Tim Reinhardt	47	D Street	False	False	0	2019	Volkswagen Golf R	DMV	Midwest	Yokohama	Ames	IA
+68	Steve Ducharme	48	D Street	False	False	0	2006	Mitsubishi Lancer Evo	NEB	Midwest	BFGoodrich	Lincoln	NE
+51	Ernest Roales	49	D Street	False	False	0	2019	Honda Civix Type R	SIR	Great Lakes	Bridgestone	Robinson	IL
+29	Max Bealer	50	D Street	False	False	0	2013	Scion FR-S	GtRv	Central	Bridgestone	Geneseo	IL
+69	Cal Craner	51	D Street	False	True	169	2008	Chevrolet Cobalt	EId	Rocky Moun	Bridgestone	Idaho Falls	ID
+48	Robert Gross	52	D Street	False	False	0	2007	Mini Cooper S	WDC	Northeast	Bridgestone	Walkersville	MD
+91	Angela Carlascio	53	D Street	False	True	191	2017	Honda Civic ZOMG T	CFR	Southeast	Bridgestone	West Melbourne	FL
+95	Stephanie Reynoso	1	D Street Ladies	True	False	0	2018	Honda Civic Type R	LnSt	Southwest	Bridgestone	Austin	TX
+79	Lacey Otis	2	D Street Ladies	True	False	0	2016	Ford Focus RS	Ore	NorPac	Bridgestone*	Scappoose	OR
+6	Jolynne Dziengel	3	D Street Ladies	True	False	0	2015	Subaru STi	CIN	Great Lakes	Bridgestone	Waynesville	OH
+97	Gwen Habenicht	4	D Street Ladies	True	False	0	2008	Audi TT	NCR	Southeast	Yokohama*	Bahama	NC
+13	Dawn Danton	5	D Street Ladies	False	False	0	2017	Ford Focus RS	Nwst	NorPac	Bridgestone	Ellensburg	WA
+54	Cathy Kenny	6	D Street Ladies	False	False	0	2019	Honda Civic Type R	SBR	Great Lakes	Bridgestone	Middlebury	IN
+19	Penelope Strack	7	D Street Ladies	False	False	0	2018	Volkswagen Golf R	KAN	Midwest	Bridgestone	Fairway	KS
+68	Susan Miller	8	D Street Ladies	False	False	0	2018	Audi S3	SBR	Great Lakes	Bridgestone	Richland	MI
+32	Evanthe Salisbury	9	D Street Ladies	False	False	0	2018	Chevrolet Camaro	WDC	Northeast	Bridgestone	Baldwin	MD
+23	Lynn Ketcham	10	D Street Ladies	True	False	0	2015	Subaru WRX	Hous	Southwest	Bridgestone	Houston	TX
+92	Ann LaRandeau	11	D Street Ladies	True	False	0	2008	Audi TT Quattro	NEB	Midwest	Bridgestone	Omaha	NE
+86	Dawn Sturgeon	12	D Street Ladies	True	False	0	2015	Subaru Wrx	SIR	Great Lakes	Bridgestone	Newburgh	IN
+84	Maria Jarnagin Steele	13	D Street Ladies	True	False	0	2002	Audi TT	Colo	Rocky Moun	Bridgestone*	Broomfield	CO
+197	Bartek Borowski	1	E Street	True	True	97	1999	Mazda Miata	CHI	Central	BFGoodrich	Elmwood Park	IL
+194	Dennis Hubbard	2	E Street	False	True	94	2003	Toyota MR2	CSCC	SoPac	Yokohama*	La Canada	CA
+96	Matt Waldbaum	3	E Street	False	True	196	1999	Mazda Miata	CHI	Central	BFGoodrich	Chicago	IL
+199	Joey Green	4	E Street	False	True	99	2003	Toyota mr2	NEB	Central	BFGoodrich	Kearney	NE
+140	Jeff Stuart	5	E Street	False	True	40	2003	Toyota MR2	CSCC	SoPac	BFGoodrich	Goleta	CA
+196	Charles Mathews	6	E Street	False	True	96	1999	Mazda Miata	CHI	Central	BFGoodrich	Bartonville	IL
+191	Brian Tefft Jr.	7	E Street	False	True	91	2003	Toyota Mr2 spyder	KAN	Midwest	Multi	Topeka	KS
+94	Edward Tsui	8	E Street	False	True	194	2003	Toyota MR2 Spyder	CSCC	SoPac	Yokohama*	Aliso Viejo	CA
+84	Kevin Lindley	9	E Street	False	True	184	2003	Toyota MR2 Spyder	NCR	Southeast	BFGoodrich	Raleigh	NC
+89	Tony Rodriguez	10	E Street	True	True	189	2003	Toyota MR2 Spyder	SFR	NorPac	BFGoodrich	San Jose	CA
+188	Wes Jenrich	11	E Street	True	True	88	1999	Mazda Miata	CHI	Central	BFGoodrich	Wheaton	IL
+76	Rich Wayne	12	E Street	True	True	176	2003	Toyota MR Spyder	NNJ	Northeast	BFGoodrich	Floral Park	NY
+54	Trevor Renson	13	E Street	True	True	154	2003	Toyota MR2 Spyder	CFR	Southeast	BFGoodrich	Apopka	FL
+68	Steve Mongrain	15	E Street	True	True	168	2000	Toyota MR-2	FLR	Great Lakes	BFGoodrich	Saint-Charles	QC
+184	Eric Peterson	16	E Street	True	True	84	2003	Toyota Spyder	NCR	Southeast	BFGoodrich	Hillsborough	NC
+88	Mark Groseth	17	E Street	False	True	188	1999	Mazda Miata	CHI	Central	BFGoodrich	Carol Stream	IL
+168	Francois Langelier	18	E Street	False	True	68	2000	Toyota MRS Spyder	NYR	Great Lakes	BFGoodrich	Laval	QC
+93	Brian Maskrey	19	E Street	False	True	193	2003	Toyota MR2 Spyder	Hous	Southwest	Yokohama*	Sugar Land	TX
+162	Michael Grosenheider	20	E Street	False	True	62	1999	Mazda Miata	LnSt	Southwest	BFGoodrich	Austin	TX
+95	George Schmitt	21	E Street	False	False	0	1999	Mazda Miata	SBR	Great Lakes	BFGoodrich	Elkhart	IN
+189	Sean Minehart	22	E Street	False	True	89	2003	Toyota MR2 Spyder	CCR	Southeast	BFGoodrich	Raleigh	NC
+193	Zack Barnes	23	E Street	False	True	93	2003	Toyota MR2-Spyder	Hous	Southwest	Yokohama*	Houston	TX
+87	Stephen Yeoh	24	E Street	False	True	187	1999	Mazda 10AE Miata	CSCC	SoPac	Bridgestone	Westlake Village	CA
+187	Peter Loney	25	E Street	False	True	87	1999	Mazda 10AE Miata	CSCC	SoPac	Bridgestone	Torrance	CA
+176	Heidi Ellison	26	E Street	False	True	76	2003	Toyota MR2 Spyder	NNJ	Northeast	BFGoodrich	Roosevelt	NY
+154	Jesse Shapiro	27	E Street	False	True	54	2003	Toyota MR2 Spyder	Colo	Rocky Moun	BFGoodrich	Parker	CO
+134	Ryan Thompson	28	E Street	False	True	34	1999	Mazda Miata	Milw	Great Lakes	Yokohama*	Hastings	MN
+91	Brian Tefft Sr	29	E Street	False	True	191	2003	Toyota MR2 Spyder	KAN	Midwest	Multi	Topeka	KS
+53	David Robinson	30	E Street	False	True	153	1999	Mazda Miata	TVR	Southeast	Bridgestone	Toney	AL
+5	Chris Bolt	31	E Street	False	False	0	2003	Toyota MR2	NOW	Great Lakes	BFGoodrich	Saline	MI
+97	Pax Rolfe	32	E Street	False	True	197	1999	Mazda Miata	NEOK	Midwest	BFGoodrich	Broken Arrow	OK
+18	Mark Hazboun	33	E Street	False	False	0	1999	Mazda MX-5 Miata	CSCC	SoPac	BFGoodrich	Nipomo	CA
+158	Alan McCrispin	34	E Street	False	True	58	1989	Porsche 944	TVR	Southeast	BFGoodrich	Huntsville	AL
+192	Ryan Lutze	35	E Street	False	True	92	1991	Toyota MR2	Colo	Rocky Moun	Bridgestone	Colorado Springs	CO
+132	Rob Springer	36	E Street	False	True	32	2001	Toyota MR2	SUS	Northeast	BFGoodrich	Harrisburg	PA
+34	Brian Ksicinski	37	E Street	False	True	134	1999	Mazda Miata	LOL	Midwest	Yokohama*	Woodbury	MN
+61	Andy Hohl	38	E Street	False	True	161	2003	Mazda Miata Shinsen	STL	Midwest	BFGoodrich	Saint Ann	MO
+27	Justin Wrighton	39	E Street	False	False	0	1999	Mazda Miata	DET	Great Lakes	BFGoodrich	Clarkston	Mi
+99	James Green	40	E Street	False	True	199	2003	Toyota mr2	NEB	Central	BFGoodrich	Kearney	NE
+16	Mason Smith	41	E Street	False	False	0	2000	Mazda Miata	SAL	Midwest	BFGoodrich	Wichita	KS
+153	Mike Robinson	42	E Street	False	True	53	1999	Mazda Miata	TVR	Southeast	Bridgestone	Ardmore	AL
+45	Ian Johnson	43	E Street	False	False	0	2002	Toyota MRS	AZB	Southwest	Bridgestone*	Tucson	AZ
+58	Edward Fisher	44	E Street	False	True	158	1989	Porsche 944	TVR	Southeast	BFGoodrich	Huntsville	AL
+40	Vernon Head	45	E Street	False	True	140	2003	Toyota MR2 Spyder	SFR	NorPac	BFGoodrich	Sacramento	CA
+62	MIke Monthei	46	E Street	False	True	162	1999	Mazda Miata	LnSt	Southwest	BFGoodrich	Austin	TX
+92	Paul Lutze	47	E Street	False	True	192	1991	Toyota MR2	Colo	Rocky Moun	Bridgestone	Colorado Springs	CO
+77	Jake Blum	48	E Street	False	False	0	2000	Mazda Miata	STL	Central	BFGoodrich	Robertsville	MO
+161	Matt Pirrello	49	E Street	False	True	61	2003	Mazda Shinsen	STL	Midwest	BFGoodrich	Ellisville	MO
+7	Anthony Bodnarik	50	E Street	False	False	0	2004	Mazda Mazdaspeed M	CIN	Great Lakes	Bridgestone	Batavia	OH
+73	Mark Miller	51	E Street	False	False	0	1999	Mazda Miata	NCR	Southeast	BFGoodrich	Carolina Beach	NC
+39	Eric Lane	52	E Street	False	False	0	2003	Toyota MR2 Spyder	Tex	Southwest	Bridgestone	Cedar Park	TX
+19	Chris Peet	53	E Street	False	False	0	2001	Mazda Miata LS	SBR	Great Lakes	BFGoodrich	Battle Creek	MI
+32	Melissa Mauro	54	E Street	False	True	132	2001	Toyota MR2	SUS	Northeast	BFGoodrich	Harrisburg	PA
+56	Stuart Naber	55	E Street	False	False	0	2005	Mazda Miata	LOL	Great Lakes	Bridgestone*	Golden Valley	MN
+31	Bill Bauman	56	E Street	False	False	0	2003	Mazda Miata	KCR	Midwest	BFGoodrich	Belton	MO
+86	Ron Babb	57	E Street	False	False	0	1999	Mazda Miata	Nwst	NorPac	Bridgestone	Renton	WA
+36	Jamey McDaniel	58	E Street	False	True	36	1999	Mazda MX-5	KYR	Great Lakes	Bridgestone*	Sand Springs	ok
+79	Andrew Taylor	59	E Street	False	False	0	1995	Mazda MX-5 Miata	NEB	Midwest	Bridgestone*	Bellevue	NE
+87	Casey Coughlin	1	E Street Ladies	True	False	0	1999	Mazda Miata	Delt	Southwest	BFGoodrich	Prairieville	LA
+86	Karen Babb	2	E Street Ladies	True	False	0	1999	Mazda Miata	Nwst	NorPac	Bridgestone	Renton	WA
+39	Shannon Saxby	3	E Street Ladies	False	False	0	2003	Toyota MR2	Spyder	Southwest	Yokohama*	Houston	TX
+91	Lori Gill	4	E Street Ladies	False	False	0	2003	Toyota MR 2 Spyder	MIDS	Midwest	BFGoodrich	Topeka	KS
+31	Janet Bauman	5	E Street Ladies	False	False	0	2003	Mazda Miata	KCR	Midwest	BFGoodrich	Belton	MO
+84	Win-hou Chow	1	F Street	True	True	184	2011	BMW M3	OVR	Midwest	BFGoodrich	Dublin	OH
+198	Jeff Cashmore	2	F Street	True	True	98	2011	BMW M3	Milw	Central	Bridgestone	New Berlin	WI
+196	Jake Namer	3	F Street	True	True	96	2012	BMW M3	NYR	Northeast	Bridgestone	Brooklyn	NY
+97	Thomas Layton	4	F Street	True	False	0	2011	BMW M3	WDC	Northeast	Bridgestone	Arlington	VA
+92	James Cathers	5	F Street	True	False	0	2011	BMW M3	ETR	Southeast	Bridgestone	Knoxville	TN
+151	Richard Bonham	6	F Street	True	True	51	2011	BMW M3	Nwst	NorPac	Bridgestone	Calgary	AB
+42	Jeremy Anderson	7	F Street	True	False	0	2011	BMW E90 M3	LOL	Central	Bridgestone	Winona	MN
+184	Ido Waksman	8	F Street	True	True	84	2011	BMW M3	OVR	Great Lakes	BFGoodrich	Columbus	OH
+87	Patrick Gaffney	9	F Street	True	False	0	2013	BMW M3	WDC	Southeast	Bridgestone	Herndon	VA
+96	Alex Kang	10	F Street	True	True	196	2012	BMW M3	SFR	NorPac	Bridgestone	Newark	CA
+98	Shane Donahue	11	F Street	True	True	198	2011	BMW M3	Milw	Central	Bridgestone	North Hollywood	CA
+91	Clark Walker	12	F Street	True	False	0	2011	BMW M3	CHI	Central	Yokohama*	Bloomington	IL
+82	Justin Eckles	13	F Street	True	False	0	2009	BMW M3	NEB	Midwest	Bridgestone	Lincoln	NE
+65	Jason Proksch	14	F Street	True	False	0	2011	BMW M3	STL	Midwest	Bridgestone	Lake St. Louis	MO
+73	Dan Hawrylkiw	15	F Street	True	False	0	2013	Ford Mustang GT	AZ	SoPac	Bridgestone	Chandler	AZ
+27	Tim Govier	16	F Street	True	True	127	2017	Chevrolet Camaro	GtRv	Central	Bridgestone	De Witt	IA
+110	Dan Sabol	17	F Street	True	True	10	2014	Ford Mustang GT	STC	Northeast	Bridgestone	Monroeville	PA
+51	Sera Bonham	18	F Street	True	True	151	2011	BMW M3	Nwst	NorPac	Bridgestone	Calgary	AB
+12	Krzysztof Zielinski	19	F Street	True	True	112	2018	Ford Mustang	CIN	Great Lakes	Bridgestone	West Chester	OH
+94	Donald Knop	20	F Street	True	False	0	2007	Ford Shelby GT	NEB	Midwest	Bridgestone	Lincoln	NE
+174	Dana Nicgorski	21	F Street	True	True	74	2018	Ford Mustang GT	NER	Northeast	Bridgestone	Burlington	MA
+171	Terry Baker	22	F Street	True	True	71	2015	Chevrolet camaro ss	WDC	Northeast	Bridgestone	Virginia Beach	VA
+99	Kevin Youngers	23	F Street	True	False	0	2012	Ford Mustang GT	Colo	Rocky Moun	Bridgestone	Greeley	CO
+127	Mike Bealer	24	F Street	True	True	27	2017	Chevrolet Camaro SS	GtRv	Central	Bridgestone	Geneseo	IL
+71	Curtis Staples	25	F Street	True	True	171	2015	Chevrolet Camaro	ODR	Southeast	Bridgestone	Norfolk	VA
+181	Kyle Tanglao	26	F Street	True	True	81	2014	Infiniti Q50S Hybrid	CnLa	Southeast	Bridgestone	Baton Rouge	LA
+72	Jeff Wetzel	27	F Street	True	False	0	2013	BMW M3	GuCo	Southeast	Bridgestone	Pensacola	FL
+81	Lance Green	28	F Street	True	True	181	2014	Infiniti Q50S Hybrid	CnLa	Central	Bridgestone	Zachary	LA
+10	Christian Korey	29	F Street	True	True	110	2014	Ford Mustang GT	STC	Northeast	Bridgestone	Pleasant Hills	PA
+79	Dave Lehrschall	30	F Street	True	False	0	2015	Ford Mustang GT Fas	SIR	Great Lakes	Bridgestone	Evansville	IN
+74	Dana Nicgorski Sr.	31	F Street	True	True	174	2018	Ford Mustang GT	NER	Northeast	Bridgestone	Salem	MA
+98	Denise Cashmore	1	F Street Ladies	True	False	0	2011	BMW M3	Milw	Central	Bridgestone	New Berlin	WI
+72	Roberta Wetzel	2	F Street Ladies	False	False	0	2013	BMW M3	GuCo	Southeast	Bridgestone	Pensacola	Fl
+94	Kellie Knop	3	F Street Ladies	False	False	0	2007	Ford Shelby GT	NEB	Midwest	Bridgestone	Lincoln	NE
+95	Ron Williams	1	G Street	True	False	0	2019	Honda civic si	KAN	Midwest	Bridgestone	Topeka	KS
+199	Lance Keeley	2	G Street	False	True	99	2018	Honda civic si	Milw	Central	BFGoodrich	Brookfield	WI
+71	Eric Simmons	3	G Street	False	False	0	2019	Honda Civic Si	PHL	Northeast	BFGoodrich	Macungie	PA
+176	Dave Potocki	4	G Street	False	True	76	2019	Honda Civic Si	WNY	Northeast	Bridgestone	Buffalo	NY
+112	Chris Kirkland	5	G Street	False	True	12	2013	Ford Focus ST	NCR	Rocky Moun	Bridgestone	Arvada	CO
+61	Mike Herrick	6	G Street	False	False	0	2017	Honda Civic Si	NEB	Midwest	Bridgestone	McPherson	KS
+27	Nick Sloan	7	G Street	False	False	0	2017	Honda Civic SI	AZ	Southwest	Bridgestone*	Phoenix	AZ
+92	Joe Blaha	8	G Street	False	False	0	2014	Ford Focus ST	NEO	Great Lakes	Bridgestone	Cuyahoga Falls	OH
+82	Chris Rudy	9	G Street	False	True	182	2017	Honda Civic SI	CIN	Great Lakes	Bridgestone	Lebanon	OH
+88	Dan Cochran	10	G Street	True	False	0	2014	Ford Focus ST	CHI	Great Lakes	Bridgestone	Winston Salem	NC
+172	Jason Tipple	11	G Street	True	True	72	2019	Honda RealspeedCivi	OVR	Great Lakes	Bridgestone	westerville	OH
+12	Mike Casino	12	G Street	True	True	112	2013	Ford Focus ST	CCR	Southeast	Bridgestone	Charlotte	NC
+190	Matt Luckow	13	G Street	True	True	90	2018	Honda Civic	DET	Great Lakes	Bridgestone	Dearborn	MI
+47	Brad Fiore	14	G Street	True	False	0	2017	Volkswagen GTI	NER	Northeast	Bridgestone	Vernon	CT
+73	Roy Handoko	15	G Street	True	False	0	2019	Honda Civic Si	CHI	Midwest	Bridgestone	Buffalo Grove	IL
+44	Jack Burns	16	G Street	True	False	0	2019	Honda Civic Si	NOW	Great Lakes	BFGoodrich	Hamilton	OH
+84	Brian Anthony	17	G Street	False	False	0	2014	Ford Focus ST	DET	Great Lakes	Bridgestone	Royal Oak	MI
+78	Patrice Bousquet	18	G Street	False	False	0	2016	Volkswagen GTI	NCR	Southeast	Bridgestone	Raleigh	NC
+91	Todd Freeman	19	G Street	False	False	0	2017	Honda Civic Si	LOL	Central	Bridgestone	Plymouth	MN
+94	Christopher Higgins	20	G Street	False	True	194	2017	Honda Civic Si	WDC	Northeast	BFGoodrich	Baltimore	MD
+194	Richard Verret	21	G Street	False	True	94	2017	Honda Civic Si	OVR	Great Lakes	BFGoodrich	Dublin	OH
+166	Shaun Bailey	22	G Street	False	True	66	2016	Volkswagen GTI	DET	Midwest	BFGoodrich	Royal Oak	MI
+99	Sam Karp	23	G Street	False	True	199	2018	Honda Civic Si	Milw	Central	BFGoodrich	Sussex	WI
+23	Jeffrey Tattershall	24	G Street	False	False	0	2019	Honda Civic Si	Colo	Rocky Moun	Bridgestone	Milliken	CO
+170	Michael Waich	25	G Street	False	True	70	2016	Volkswagen Volkswag	Milw	Central	Bridgestone	Minneapolis	MN
+77	John Azevedo	26	G Street	False	False	0	2019	Honda Civic Si	CHI	Central	Bridgestone	Elmhurst	IL
+22	Alan Hamson	27	G Street	False	False	0	2019	Honda Civic Si	IND	Great Lakes	Bridgestone	Greenwood	IN
+93	Barbara Seeger	28	G Street	False	False	0	2018	Honda Civic Si	NER	Northeast	Bridgestone	Pepperell	MA
+76	Lee Piccione	29	G Street	False	True	176	2019	Honda Civic Si	WDC	Northeast	Bridgestone	Severn	MD
+70	Robin Newborg	30	G Street	False	True	170	2016	Volkswagen Golf	GTi	NorPac	Bridgestone	Bloomington	MN
+6	Alex Bronson	31	G Street	False	True	106	2016	Ford Focus ST	DMV	Midwest	Bridgestone	West Des Moines	IA
+49	Chad Freeman	32	G Street	False	False	0	2018	Honda Civic Si	OVR	Great Lakes	Bridgestone	Dublin	OH
+146	Daniel Sato	33	G Street	False	True	46	2018	Honda Civic Si	LnSt	Southwest	Bridgestone	Austin	TX
+36	Jeffrey Managhan	34	G Street	False	False	0	2017	Volkswagen GTI	NOW	Great Lakes	Bridgestone*	Sylvania	OH
+174	Christian Williams	35	G Street	False	True	74	2017	Honda Civic Si	NCR	Southeast	Bridgestone	Wilmington	NC
+90	Nikhil Juturu	36	G Street	False	True	190	2018	Honda Civic	SFR	SoPac	Bridgestone	San Francisco	CA
+64	Karl Shultz	37	G Street	False	False	0	2019	Volkswagen GTI	CCR	Southeast	Bridgestone*	Wake Forest	NC
+86	Mark Stevens	38	G Street	False	False	0	2018	Volkswagen Gti	OVR	Great Lakes	Bridgestone	Bellville	OH
+87	Michael Bullis	39	G Street	False	False	0	2015	Volkswagen GTI	CHI	Central	Bridgestone*	Oak Park	IL
+13	Anthony Oliveri	40	G Street	False	False	0	2013	Ford Focus ST	LnSt	Southwest	Bridgestone	Round Rock	TX
+46	Shawn Hale	41	G Street	False	True	146	2018	Honda Civic	LnSt	Southwest	Bridgestone*	Austin	TX
+182	David Rudy	42	G Street	False	True	82	2017	Honda Civic SI	WOR	Great Lakes	Bridgestone	Lebanon	OH
+32	Todd Forno	43	G Street	False	False	0	2016	Volkswagen GTI	NNJ	Northeast	Bridgestone	Hillsborough	NJ
+96	Phil Osborne	44	G Street	False	False	0	2019	Honda Civic SI	Tex	Southwest	Bridgestone	Argyle	TX
+98	Jeff Britton	45	G Street	False	False	0	2015	Volkswagen GTI	DET	Great Lakes	Bridgestone*	Huntington Woods	MI
+26	Matt Morhardt	46	G Street	False	False	0	2006	Subaru Impreza WRX	LnSt	Southwest	Bridgestone	Austin	TX
+97	Keith Koegler	47	G Street	False	False	0	2015	Ford Focus ST	NOW	Great Lakes	BFGoodrich	Perrysburg	OH
+155	Jeff Hahn	48	G Street	False	True	55	2013	Ford Focus ST	Badl	Midwest	Bridgestone	Fargo	ND
+72	Ed George	49	G Street	False	True	172	2019	Honda RealspeedCivi	NOW	Great Lakes	Bridgestone	Cleveland	OH
+55	Ben Woessner	50	G Street	False	True	155	2013	Ford Focus ST	Badl	Central	Bridgestone	Fargo	ND
+7	Sara Tessem	51	G Street	False	False	0	2015	Volkswagen GTI	LOL	Great Lakes	Bridgestone	St Louis Park	MN
+9	Thomas Simon	52	G Street	False	False	0	2014	Ford Focus ST	Atl	Southeast	Bridgestone	Kennesaw	GA
+106	Mike Bronson	53	G Street	False	True	6	2016	Ford Focus ST	DMV	Midwest	Bridgestone	West Des Moines	IA
+34	Mark Steichen	54	G Street	False	False	0	2018	Honda Civic Si	Colo	Rocky Moun	Bridgestone	Broomfield	CO
+69	James Arthur	55	G Street	False	False	0	2017	Ford Fusion Sport	WDC	Northeast	Bridgestone	Prince Frederick	MD
+74	Vernon Geddings	56	G Street	False	True	174	2017	Honda civic si	NCR	Southeast	Bridgestone	Havelock	NC
+66	Sarah Mitchell	57	G Street	False	True	166	2016	Volkswagen GTI	DET	Central	BFGoodrich	Royal Oak	MI
+43	Kwok Ling Kam	58	G Street	False	False	0	2016	Volkswagen GTI S	CHI	Midwest	Bridgestone	Chicago	IL
+81	Justin Arnette	59	G Street	False	True	184	2018	Chevrolet Malibu	NCR	Southeast	Continental*	Burgaw	NC
+99	Annie Gill	1	G Street Ladies	True	False	0	2018	Honda Civic SI	Nwst	NorPac	Bridgestone	Renton	WA
+23	Chelsea Tattershall	2	G Street Ladies	True	False	0	2019	Honda Civic Si	Colo	Rocky Moun	Bridgestone	Milliken	CO
+174	Kelly Mezzapelle	3	G Street Ladies	False	True	74	2017	Honda Civic	SCR	Southeast	Bridgestone	Longs	SC
+74	Tara Arnette	4	G Street Ladies	False	True	174	2017	Honda Civic SI	NCR	Southeast	Bridgestone	burgaw	NC
+76	Melanie Dorsey	5	G Street Ladies	False	False	0	2014	Ford Focus ST	Colo	Rocky Moun	Bridgestone*	Littleton	Co
+91	Ashley Weaver	6	G Street Ladies	False	False	0	2014	Ford Focus ST	Atl	Southeast	Bridgestone	Marietta	GA
+114	Philip Mitchell	1	H Street	True	True	14	2015	Ford Fiesta ST	DET	Great Lakes	BFGoodrich	White Lake	MI
+85	Cameron Goode	2	H Street	False	False	0	2010	Honda Accord	Tex	Central	Multi	Fort Worth	TX
+89	John Swig	3	H Street	False	True	189	2017	Honda Civic Sport	NER	Northeast	BFGoodrich	Brookline	MA
+139	Chris Carris	4	H Street	False	True	39	2017	Ford Fiesta	ODR	Southeast	Yokohama*	Virginia Beach	VA
+36	Greg Reno	5	H Street	False	False	0	2010	Mini Cooper	KAN	Midwest	Bridgestone	Lawrence	KS
+97	Russell Blume	6	H Street	False	False	0	2019	Honda Civic hatchba	KAN	Midwest	Bridgestone	Wichita	KS
+98	Stephen Hui	7	H Street	False	False	0	2016	Ford Fiesta ST	Nwst	NorPac	BFGoodrich	Calgary	AB
+86	Steven Carter	8	H Street	False	False	0	2008	Honda Civic si	NCR	Southeast	BFGoodrich	Raleigh	NC
+179	Allen Kugler	9	H Street	False	True	79	2006	Honda Civic Si	SUS	Northeast	BFGoodrich	Springtown	PA
+189	Josh Brockman	10	H Street	True	True	89	2017	Honda Civic	NER	Northeast	BFGoodrich	Biddeford	ME
+193	Jinx Jordan	11	H Street	False	True	93	2006	Honda Civic Si	NER	Northeast	BFGoodrich	Terrell	NC
+188	Peter Ling	12	H Street	False	True	88	2017	Honda Civic	SNY	Northeast	BFGoodrich	Hallstead	PA
+78	Jeff Yatsko	13	H Street	False	False	0	2018	Hyundai Elantra GT	NNJ	Northeast	Bridgestone	Milltown	NJ
+44	Brandon Hagaman	14	H Street	False	True	44	2017	Ford Fiesta ST	DET	Great Lakes	Bridgestone	Bingham Farms	MI
+11	Nicholas Noblitt	15	H Street	False	False	0	2017	Ford Fiesta	CFR	Central	BFGoodrich	Rockledge	FL
+8	Zach Taulbee	16	H Street	False	False	0	2017	Ford Fiesta ST	Hous	Southwest	Bridgestone	Denton	TX
+84	Eric Fredricks	17	H Street	False	False	0	2015	Fiat 500 Abarth	GtRv	Central	Bridgestone	Davenport	IA
+4	Gregory Sharpe	18	H Street	False	True	104	2008	Honda Civic Si	NNJ	Northeast	BFGoodrich	Matawan	NJ
+79	Denise Kugler	19	H Street	False	True	179	2006	Honda Civic Si	SUS	Northeast	BFGoodrich	Springtown	PA
+177	Rachel Leach	20	H Street	False	True	77	2007	Honda Civic Si	PHL	Northeast	BFGoodrich	Chalfont	PA
+199	Hans Villanueva	21	H Street	False	True	99	2018	Ford Fiesta ST	Milw	Midwest	Bridgestone	Dubuque	IA
+99	Jason Wright	22	H Street	False	True	199	2018	Ford Fiesta	Iowa	Central	Bridgestone	Cedar Falls	IA
+88	Rob Pingarelli	23	H Street	False	True	188	2017	Honda Civic	NEP	Northeast	BFGoodrich	Hallstead	PA
+39	Howard Shek	24	H Street	False	True	139	2017	Ford Fiesta	HI	SoPac	Yokohama*	Aiea	HI
+104	Elisabeth Flannagan	25	H Street	False	True	4	2008	Honda Civic Si	PHL	Northeast	BFGoodrich	West Deptford	NJ
+93	Fred White	26	H Street	False	True	193	2006	Honda Civic SI	NER	Northeast	BFGoodrich	Abington	MA
+24	Chang Ho Kim	27	H Street	False	False	0	2007	Honda Civic	NER	Northeast	Bridgestone	Maynard	ma
+77	Amy Wunsch	28	H Street	False	True	177	2007	Honda Civic si	NNJ	Northeast	BFGoodrich	Medford	NY
+27	Connor Forbes	29	H Street	False	False	0	2007	Volkswagen Rabbit	NEOK	Central	Bridgestone	Tulsa	OK
+7	Paul Krysiak	30	H Street	False	False	0	2010	Mini Cooper Hardtop	NER	Northeast	Bridgestone	Tolland	CT
+82	Joshua Emmert	31	H Street	False	False	0	2018	Ford fist	ARK	Midwest	Bridgestone	hot springs	AR
+18	Anthony Toledano	32	H Street	False	False	0	2019	Toyota Corolla Hatch	KCR	Midwest	Yokohama*	Olathe	KS
+1	Phil Alspach	33	H Street	False	True	101	2002	Ford SVT FOCUS	OVR	Great Lakes	Sumitomo*	Columbus	OH
+14	John Mitchell	34	H Street	False	True	114	2015	Ford Fiesta ST	DET	Great Lakes	BFGoodrich	Livonia	MI
+97	Laney Blume	1	H Street Ladies	True	False	0	2019	Honda Civic hatchba	KAN	Midwest	Bridgestone	Wichita	KS
+193	Ginette Jordan	2	H Street Ladies	True	True	93	2006	Honda Civic Si	NER	Northeast	BFGoodrich	Terrell	NC
+77	Vanessa Lau	3	H Street Ladies	False	False	0	2017	Ford Fiesta ST	Almo	Southwest	Bridgestone	San Antonio	TX
+93	Kathy Barnes	4	H Street Ladies	False	True	193	2006	Honda Civic Si	NER	Northeast	BFGoodrich	Tolland	CT
+69	Adam Benaway	1	Solo Spec Coupe	True	False	0	2013	Scion FRS	CCR	Southeast	Falken	Fayetteville	NC
+23	Jimmy Vajdak	2	Solo Spec Coupe	False	False	0	2013	Scion FRS	DET	Northeast	Falken	Farmington Hills	MI
+51	Matt McCabe	3	Solo Spec Coupe	False	True	151	2013	Scion FR-S	NEB	Midwest	Falken	Omaha	NE
+91	Kinch Reindl	4	Solo Spec Coupe	False	False	0	2014	Subaru BRZ	Colo	Rocky Moun	Falken	castle rock	CO
+194	Andrew Pallotta	5	Solo Spec Coupe	False	True	94	2013	Scion FRS	NCR	Southeast	Falken	Holly Springs	NC
+72	Mike Lawson	6	Solo Spec Coupe	False	False	0	2016	Scion FR-S	CFR	Central	Falken	Lehigh Acres	FL
+179	Tyler Kvetko	7	Solo Spec Coupe	False	True	79	2015	Subaru	Tex	Midwest	Falken	Arlington	tx
+98	Kevin Dietz	8	Solo Spec Coupe	False	False	0	2013	Scion FRS	Nwst	NorPac	Falken	Federal Way	WA
+132	Tony Savini	9	Solo Spec Coupe	False	True	32	2016	Subaru BRZ	PHL	Northeast	Falken	Cochranville	PA
+65	Eric Niemi	10	Solo Spec Coupe	True	False	0	2013	Scion FRS	Milw	Central	Falken	Belleville	WI
+84	David Spratte	11	Solo Spec Coupe	True	False	0	2016	Scion FR-S	NCR	Southeast	Falken	Raleigh	NC
+43	Dave Schotz	12	Solo Spec Coupe	True	True	143	2016	Scion FR-S	AZ	SoPac	Falken	Chandler	AZ
+97	Tom Zickuhr	13	Solo Spec Coupe	True	False	0	2014	Scion FR-S	WICH	Midwest	Falken	Wichita	KS
+32	Jeff Jacobs	14	Solo Spec Coupe	True	True	132	2016	Subaru BRZ	PHL	Northeast	Falken	Philadelphia	PA
+196	Chris Hammond	15	Solo Spec Coupe	False	True	96	2016	Scion FR-S	STL	Midwest	Falken	Wildwood	MO
+143	Jared Coulson	16	Solo Spec Coupe	False	True	43	2016	Scion FR-S	Nwst	NorPac	Falken	Calgary	AB
+94	Chris Harp	17	Solo Spec Coupe	False	True	194	2013	Scion FRS	ETR	Southeast	Falken	Lenoir City	TN
+99	Eric Davis	18	Solo Spec Coupe	False	True	199	2013	Scion	FRS	Midwest	Falken	Conway	AR
+49	Aaron Politsky	19	Solo Spec Coupe	False	False	0	2014	Subaru BRZ	CHI	Midwest	Falken	Chicago	IL
+82	Jason Fetchko	20	Solo Spec Coupe	False	False	0	2016	Scion FR-S	CCR	Southeast	Falken	Hazleton	PA
+151	Dan Costello	21	Solo Spec Coupe	False	True	51	2013	Scion FR-S	NEB	Midwest	Falken	Omaha	NE
+92	Thomas Jensen	22	Solo Spec Coupe	False	True	192	2013	Scion FRS	Texas	Southwest	Falken	Celina	TX
+192	John Clark	23	Solo Spec Coupe	False	True	92	2013	Scion Frs	Tex	Central	Falken	Arlington	TX
+96	Thomas Sotiropoulos	24	Solo Spec Coupe	False	True	196	2016	Scion FR-S	STL	Midwest	Yokohama	OFallon	IL
+195	Chris Levitz	25	Solo Spec Coupe	False	True	95	2013	Scion FR-S	Hous	Southwest	Falken	Fulshear	TX
+81	Jonathan Shreiner	26	Solo Spec Coupe	False	False	0	2013	Scion FR-S	SBR	Great Lakes	Falken	Elkhart	IN
+95	Andy Neilson	27	Solo Spec Coupe	False	True	195	2013	Scion FRS	Hous	Southwest	Falken	Richmond	TX
+86	Daniel Berge	28	Solo Spec Coupe	False	False	0	2015	Scion FR-S	LOL	Central	Falken	Lino Lakes	MN
+48	Kevin Buchholz	29	Solo Spec Coupe	False	False	0	2013	Scion FR-S	Colo	Rocky Moun	Falken	Aurora	CO
+89	Jed Peterson	30	Solo Spec Coupe	False	True	189	2015	Scion FRS	TEN	Southeast	Falken	Knoxville	TN
+189	Stephen Rife	31	Solo Spec Coupe	False	True	89	2016	Scion FRS	ETR	Southeast	Falken	Knoxville	TN
+131	Anthony Dvorak	32	Solo Spec Coupe	False	True	31	2013	Scion FR-S	KCR	Midwest	Falken	Independence	MO
+127	Pablo Laight	33	Solo Spec Coupe	False	True	27	2013	Scion FRS	RioG	Rocky Moun	Falken	Corrales	NM
+199	Layton Cater	34	Solo Spec Coupe	False	True	99	2013	Scion FR-S	ARK	Midwest	Falken	Traskwood	AR
+37	Jonathan Warlof	35	Solo Spec Coupe	False	False	0	2013	Scion FRS	CFR	Southeast	Falken	Delray Beach	FL
+46	G H Sharp	36	Solo Spec Coupe	False	False	0	2016	Scion FRS	CCR	Southeast	Falken	Apex	NC
+76	Jim Garton	37	Solo Spec Coupe	False	False	0	2016	Scion FR86-S	RioG	Rocky Moun	Falken	Albuquerque	NM
+27	Jaik Ortiz	38	Solo Spec Coupe	False	True	127	2013	Scion FR-S	RioG	Rocky Moun	Falken	Albuquerque	NM
+79	John Kvetko	39	Solo Spec Coupe	False	True	179	2015	Subaru	Tex	Midwest	Falken	Arlington	tx
+83	Karl Rickert	40	Solo Spec Coupe	False	False	0	2013	Scion FRS	CHA	Southeast	Falken	Flintstone	GA
+31	Yama Takimoto	41	Solo Spec Coupe	False	True	131	2013	Scion FR-S	KCR	Midwest	Falken	Independence	MO
+70	Andrew Howe	42	Solo Spec Coupe	False	True	170	2013	Scion FRS	Ore	NorPac	Falken	Silverton	OR
+56	Juan Carbone	43	Solo Spec Coupe	False	True	156	2013	Scion frs	Iowa	Midwest	Falken*	Cedar Falls	IA
+156	Tyler Hupp	44	Solo Spec Coupe	False	True	56	2013	Scion frs	Iowa	Midwest	Falken*	Cedar Falls	IA
+35	John Souder	45	Solo Spec Coupe	False	False	0	2014	Subaru BRZ - NWOR	NOW	Great Lakes	Falken	Fostoria	OH
+59	Ricardo Quinonez	46	Solo Spec Coupe	False	True	159	2013	Scion Frs	SFR	NorPac	Falken	Fresno	CA
+159	Ed Runnion	47	Solo Spec Coupe	False	True	59	2013	Scion FR-S Snowflake	SFR	NorPac	Falken	San Jose	CA
+39	Malcolm Lawson	48	Solo Spec Coupe	False	False	0	2014	Scion FR-S	CFR	Southeast	Falken	Venice	FL
+170	Jon Krolewicz	49	Solo Spec Coupe	False	True	70	2013	Scion FRS	SCR	Southeast	Falken	Pontiac	SC
+58	Ray Brake	50	Solo Spec Coupe	False	False	0	2013	Scion FRS	IND	Midwest	Falken	Byron	GA
+22	Nickolas Gruendler	51	Solo Spec Coupe	False	False	0	2013	Subaru BRZ	LnSt	Southwest	Falken	Austin	TX
+184	Jennifer Bedell	1	Solo Spec Coupe Ladies	True	True	84	2016	Scion FR-S	NCR	Southeast	Falken	Hillsborough	NC
+91	Cindy Duncan	2	Solo Spec Coupe Ladies	True	False	0	2014	Subaru BRZ	CKY	Great Lakes	Falken	Lanesville	IN
+84	Chris Peterson	3	Solo Spec Coupe Ladies	True	True	184	2016	Scion FRS	NCR	Southeast	Falken	Hillsborough	NC
+23	Samantha Bray	4	Solo Spec Coupe Ladies	True	False	0	2013	Scion FRS	DET	Great Lakes	Falken	Farmington Hills	MI
+198	Tonda Lawson	5	Solo Spec Coupe Ladies	True	True	98	2016	Scion FR-S	CFR	Southeast	Falken	Lehigh Acres	FL
+66	Deanne Carter	6	Solo Spec Coupe Ladies	False	False	0	2013	Scion FRS	Nwst	NorPac	Falken	Federal Way	WA
+193	Linda Duncan	7	Solo Spec Coupe Ladies	False	True	93	2016	Toyota FRS	KAN	Midwest	Falken	Topeka	KS
+76	Mary Lou Holmes	8	Solo Spec Coupe Ladies	False	False	0	2016	Scion FRS	RioG	Rocky Moun	Falken	Los Alamos	NM
+48	Emily Brown	9	Solo Spec Coupe Ladies	False	True	48	2013	Scion FR-S	Colo	Rocky Moun	Falken	Aurora	CO
+195	Mary Pozzi	10	Solo Spec Coupe Ladies	True	True	95	2013	Scion FR-S	SFR	NorPac	Falken	Salinas	CA
+94	Maria Pallotta	11	Solo Spec Coupe Ladies	True	False	0	2013	Scion FRS	NCR	Southeast	Falken	Holly Springs	NC
+95	Katherine Flater	12	Solo Spec Coupe Ladies	True	True	195	2013	Scion FR-S	SFR	SoPac	Falken	Fresno	CA
+98	Geraghty Anne Ellis	13	Solo Spec Coupe Ladies	True	True	198	2016	Scion FRS	CFR	Southeast	Falken	Atlanta	GA
+92	Jody Bedell	14	Solo Spec Coupe Ladies	True	False	0	2015	Scion FR-S	Milw	Central	Falken	Farmington	MN
+93	Jacqueline Lawson	15	Solo Spec Coupe Ladies	True	True	193	2014	Scion FR-S	CFR	Southeast	Falken	Venice	FL
+157	Grant Reeve	1	Super Street R	True	True	57	2019	Corvette Grand Sport	NER	Northeast	Hoosier	Sturbridge	MA
+141	Sam Strano	2	Super Street R	True	True	41	2018	Chevrolet Corvette GS	WDC	Northeast	Hoosier	Brookville	PA
+197	Cody Hunt	3	Super Street R	True	True	97	2017	Chevrolet Corvette	WDC	Northeast	Hoosier	Elkridge	MD
+41	Brian Burdette	4	Super Street R	True	True	141	2019	Chevrolet Corvette Gr	Almo	Southwest	Hoosier	San Antonio	TX
+181	Alex Muresan	5	Super Street R	True	True	81	2011	Porsche GT3	SFR	NorPac	Hoosier	Walnut Creek	CA
+168	David Alessandrini	6	Super Street R	True	True	68	2017	Chevrolet Corvette	NEO	Great Lakes	Hoosier	Lakewood	OH
+97	Rusty English	7	Super Street R	True	True	197	2017	Chevrolet Grand Sport	WDC	Southeast	Hoosier	Ashton	Md
+135	Dan Ireland	8	Super Street R	False	True	35	2012	Chevrolet Corvette GS	STC	Southeast	Hoosier	South Park	PA
+68	Ben Edmiston	9	Super Street R	False	True	168	2017	Chevrolet Corvette Gr	STC	Northeast	Hoosier	Ellwood City	PA
+57	Stephanie Reeve	11	Super Street R	True	True	157	2019	Corvette Grand Sport	NER	Northeast	Hoosier	Sturbridge	MA
+119	Jeff Woodbury	12	Super Street R	True	True	19	2017	Chevrolet Corvette Gr	Nwst	NorPac	Hoosier	Richland	WA
+35	Michael Figliolia	13	Super Street R	True	True	135	2012	Chevrolet Corvette	STC	Northeast	Hoosier	Elizabeth	PA
+26	Christian Retterer	14	Super Street R	True	False	0	2007	Chevrolet Corvette Z0	Atl	Southeast	Hoosier	Hampton	GA
+177	Brian DePietro	15	Super Street R	True	True	77	2009	Chevrolet Corvette Z0	NOW	Great Lakes	Hoosier	Montville	OH
+58	Brian Huber	16	Super Street R	True	True	158	2002	Chevrolet Z06	ETR	Southeast	Hoosier	Knoxville	TN
+80	Larry Brady	17	Super Street R	True	False	0	2004	Chevrolet Corvette Z0	KCR	Midwest	Hoosier	Olathe	KS
+93	Mark Valera	18	Super Street R	True	True	193	2003	Chevrolet Corvette Z0	PHL	Northeast	Hoosier	New York	NY
+77	Greg McCance	19	Super Street R	True	True	177	2009	Chevrolet Corvette Z0	NOW	Great Lakes	Hoosier	Monclova	OH
+33	John Fink	20	Super Street R	True	False	0	2019	Chevrolet Corvette GS	CCR	Southeast	Hoosier	Easley	SC
+89	Jerry Onks	21	Super Street R	True	False	0	2007	Chevrolet Corvette Z0	Tennessee	Southeast	Hoosier	Murfreesboro	TN
+81	Tiberiu Muresan	22	Super Street R	True	True	181	2011	Porsche GT3	SFR	Southwest	Hoosier	San Jose	CA
+19	Julie Woodbury	23	Super Street R	True	True	119	2017	Chevrolet Corvette Gr	Nwst	NorPac	Hoosier	Richland	WA
+193	Lisa Valera	24	Super Street R	True	True	93	2003	Chevrolet Corvette Z0	PHL	Northeast	Hoosier	Fresh Meadows	NY
+41	Shelly Monfort	1	Super Street R Ladies	True	False	0	2018	Chevrolet Corvette GS	SFR	NorPac	Hoosier	Saratoga	CA
+177	Megan DePietro	2	Super Street R Ladies	True	True	77	2009	Chevrolet Corvette Z0	NOW	Great Lakes	Hoosier	Montville	OH
+68	Katie Barrett	3	Super Street R Ladies	False	False	0	2017	Chevrolet Corvette C7	NOW	Great Lakes	Hoosier	Columbia Station	OH
+77	Carmen Rowlands	4	Super Street R Ladies	False	True	177	2009	Chevrolet Corvette Z0	NOW	Great Lakes	Hoosier	Monclova	OH
+27	Deborah Jarboe	5	Super Street R Ladies	False	False	0	2004	Chevrolet Corvette	KAN	Midwest	Hoosier*	Topeka	KS
+94	Christopher Mayfield	1	Street Touring Ultra	True	True	194	2011	BMW M3	Colo	Rocky Moun	Yokohama*	Menlo Park	CA
+198	John Hale	2	Street Touring Ultra	True	True	98	2006	Subaru WRX STI	LnSt	Southwest	BFGoodrich	Austin	TX
+86	Jimmy Au-Yeung	3	Street Touring Ultra	True	True	86	2006	Mitsubishi Lancer Evo	SFR	NorPac	Bridgestone	Visalia	CA
+45	Mark Hill	4	Street Touring Ultra	True	False	0	2006	Mitsubishi Evo 9	KAN	Midwest	Bridgestone	Lawrence	KS
+97	Matt Ales	5	Street Touring Ultra	True	False	0	2003	BMW M3	CSCC	SoPac	Bridgestone	El Dorado Hills	CA
+172	Brandon Porambo	6	Street Touring Ultra	True	True	72	2015	Nissan 370Z	CSCC	SoPac	Yokohama*	Brea	CA
+98	Luke Williamson	7	Street Touring Ultra	True	True	198	2006	Subaru WRX STI	Tex	Southwest	BFGoodrich	Copperas Cove	TX
+84	Justin Metz	9	Street Touring Ultra	False	True	184	2002	BMW M3	Colo	Rocky Moun	Bridgestone	Broomfield	CO
+83	Paul Kolatorowicz	10	Street Touring Ultra	True	False	0	2016	Ford Focus	CHI	Central	Bridgestone	Cary	IL
+184	Kai Jones	11	Street Touring Ultra	True	True	84	2002	BMW M3	CDR	Rocky Moun	Bridgestone	Littleton	CO
+87	Brian Killourhy	12	Street Touring Ultra	True	False	0	2009	Porsche Cayman S	Colo	Rocky Moun	Bridgestone*	Broomfield	CO
+29	Steve Seguis	13	Street Touring Ultra	True	False	0	2007	Porsche Cayman S	NNJ	Northeast	Yokohama*	New York	NY
+80	Robert Godiciu	14	Street Touring Ultra	True	False	0	2005	Subaru STi	ODR	Southeast	Bridgestone	Smithfield	VA
+52	Brian Kelly	15	Street Touring Ultra	True	False	0	2004	Mazda MSM	Colorado	Unknown	BFGoodrich	Westminster	CO
+71	John Powell	16	Street Touring Ultra	True	False	0	2005	Subaru STi	STL	Midwest	Bridgestone	Maryland Heights	MO
+65	Todd Hesskamp	17	Street Touring Ultra	True	True	165	2004	BMW M3	KCR	Midwest	Bridgestone*	Lenexa	ks
+95	Steve McLaughlin	18	Street Touring Ultra	True	False	0	2007	Nissan 350Z	Reno	NorPac	Bridgestone	Sparks	NV
+88	Brendan Sobers	19	Street Touring Ultra	True	False	0	2014	Nissan 370Z	Colo	Rocky Moun	Yokohama*	broomfield	CO
+72	James Boller	20	Street Touring Ultra	True	True	172	2015	Nissan 370Z	AZ	Southwest	Yokohama*	Apache Junction	AZ
+82	Omar Elgazzar	21	Street Touring Ultra	True	False	0	2013	BMW 335	WNY	Northeast	Bridgestone	Richmond	ON
+74	Hal Dorton	22	Street Touring Ultra	True	False	0	2003	BMW M3	SFR	NorPac	Bridgestone	Pleasant Hill	CA
+165	Bob Buxbaum	23	Street Touring Ultra	True	True	65	2004	BMW M3	KCR	Midwest	Bridgestone*	Lees Summit	MO
+3	Paul Tibbals	24	Street Touring Ultra	True	False	0	2006	Subaru STI	SFR	NorPac	Bridgestone	San Ramon	CA
+35	David Johnson	25	Street Touring Ultra	True	False	0	2016	Ford focus rs	LOL	SoPac	Bridgestone*	Box Elder	SD
+28	Don Lambert	26	Street Touring Ultra	True	False	0	2001	Chevrolet	Corvette	Great Lakes	Bridgestone*	Ypsilanti	MI
+10	Ramon Pellizzaro	27	Street Touring Ultra	True	False	0	2003	BMW M3	Iowa	Midwest	Firestone*	Cedar Falls	IA
+86	Eileen Blando	1	Street Touring Ultra Ladies	True	False	0	2006	Mitsubishi	SFR	NorPac	Bridgestone	San Jose	CA
+3	MacKenzi Crowe	2	Street Touring Ultra Ladies	False	False	0	2006	Porsche Cayman S	SIR	Midwest	Bridgestone	Newburgh	IN
+80	Alyse Bisbee	3	Street Touring Ultra Ladies	False	True	80	2005	Subaru STi	ODR	Southeast	Bridgestone	Virginia Beach	VA
+175	Brian Karwan	1	Street Touring Roadster	True	True	75	2016	Mazda MX-5 Miata	WDC	Northeast	Yokohama*	Frederick	MD
+189	Daniel McCelvey	2	Street Touring Roadster	True	True	89	2016	Mazda MX-5	Hous	Southwest	Yokohama*	Houston	TX
+98	Mark Dudek	3	Street Touring Roadster	True	True	198	2017	Mazda Miata	NER	Northeast	Yokohama*	Kensington	NH
+97	Mark Shrivastava	4	Street Touring Roadster	True	True	97	2017	Mazda MX5	WDC	Northeast	Yokohama*	Alexandria	VA
+199	David Whitener	5	Street Touring Roadster	True	True	99	2016	Mazda MX5	Tex	Southwest	Yokohama*	Fort Worth	TX
+79	Nathan Young	6	Street Touring Roadster	True	True	179	2016	Mazda Miata	PHL	Northeast	Yokohama*	Newtown Square	PA
+198	William Koscielny	7	Street Touring Roadster	True	True	98	2017	Mazda MX5	NER	Northeast	Yokohama*	Brookline	MA
+187	Austin Clark	8	Street Touring Roadster	True	True	87	2016	Mazda MX5	SnRv	NorPac	Yokohama*	Boise	ID
+192	Marcus Pyne	9	Street Touring Roadster	False	True	92	2017	Mazda Miata	WDC	Northeast	Yokohama*	Fairfax	VA
+195	Michael Jeffries	10	Street Touring Roadster	True	True	95	2016	Mazda MX-5	CIN	Midwest	Yokohama*	Buffalo	NY
+179	David Graver	11	Street Touring Roadster	True	True	79	2016	Mazda MX-5	PHL	Northeast	Yokohama*	West Chester	PA
+89	Tracy Ramsey	12	Street Touring Roadster	True	True	189	2016	Mazda MX-5 Miata	CHI	Central	Yokohama*	Hinckley	IL
+50	Scott Mullens	13	Street Touring Roadster	True	False	0	2016	Mazda MX5	CSCC	SoPac	Bridgestone	Lancaster	CA
+193	Ryan Davies	14	Street Touring Roadster	True	True	93	2017	Mazda MX5	Dix	Southeast	Yokohama*	Falls Church	VA
+141	Ryan Leach	15	Street Touring Roadster	True	True	41	2016	Mazda Mx5	PHL	Northeast	BFGoodrich	Chalfont	PA
+95	John Li	16	Street Touring Roadster	True	True	195	2016	Mazda Miata MX5	DET	Great Lakes	Yokohama*	Dearborn	MI
+99	Kim Whitener	17	Street Touring Roadster	True	True	199	2016	Mazda MX5	Tex	Southwest	Yokohama*	Fort Worth	TX
+75	Jen Fox	18	Street Touring Roadster	True	True	175	2016	Mazda MX-5 Miata	WDC	Northeast	Yokohama*	Falls Church	VA
+39	Trevor Blackwell	19	Street Touring Roadster	True	True	139	2010	Mazda Miata	WDC	Northeast	Bridgestone	Fairfax Station	VA
+139	Alan Claffie	20	Street Touring Roadster	True	True	39	2010	Mazda MX-5	WDC	Northeast	Bridgestone	Waldorf	MD
+88	David Thompson	21	Street Touring Roadster	True	True	188	2016	Mazda Miata	LOL	Midwest	Bridgestone	Champlin	MN
+41	Nick Babin	22	Street Touring Roadster	True	True	141	2016	Mazda Miata	PHL	Northeast	BFGoodrich	Jersey City	NJ
+188	Joe Brown	23	Street Touring Roadster	True	True	88	2016	Mazda Miata	LOL	Midwest	Bridgestone	Maple Grove	MN
+93	Michelle Knoll	24	Street Touring Roadster	True	True	193	2017	Mazda Miata	WDC	Northeast	Yokohama*	Falls Church	VA
+92	Steve Mitchell	25	Street Touring Roadster	True	True	192	2017	Mazda MX-5	WDC	Northeast	Yokohama*	Mc Lean	VA
+87	Cynthia Clark	26	Street Touring Roadster	True	True	187	2016	Mazda MX5	SnRv	NorPac	Yokohama*	Boise	ID
+16	Kyle Roberts	27	Street Touring Roadster	True	False	0	2005	BMW Z4	SVR	Great Lakes	Bridgestone	Bay City	MI
+15	Brandon Thomas	28	Street Touring Roadster	True	False	0	1995	Mazda Miata	WICH	Midwest	BFGoodrich	Wichita	KS
+89	Tara Johns	1	Street Touring Roadster Ladies	True	False	0	2016	Mazda MX5	TEN	Southeast	Yokohama*	Milton	TN
+97	Ally Arts	2	Street Touring Roadster Ladies	True	False	0	2017	Mazda	MX5	Northeast	Yokohama*	Alexandria	VA
+99	Laurie McCelvey	3	Street Touring Roadster Ladies	False	False	0	2016	Mazda MX-5	Hous	Southwest	Yokohama*	Houston	TX
+139	Kate Claffie	4	Street Touring Roadster Ladies	False	True	39	2010	Mazda MX-5	WDC	Northeast	Bridgestone	Waldorf	MD
+39	Sharon Eberlein	5	Street Touring Roadster Ladies	False	True	139	2010	Mazda Miata	Tex	Southwest	Bridgestone	Aledo	TX
+193	Bryan Heitkotter	1	Street Touring Xtreme	True	True	93	2015	Subaru BRZ	SFR	NorPac	Yokohama*	Fresno	CA
+82	Raymond Dsouza	2	Street Touring Xtreme	False	False	0	2014	Subaru BRZ	KYR	Great Lakes	Yokohama*	Louisville	KY
+89	Kyle Herbst	3	Street Touring Xtreme	False	False	0	2016	Scion FRS	OVR	Great Lakes	Yokohama*	Hudson	OH
+95	Michael Yanase	4	Street Touring Xtreme	False	True	195	2016	Subaru	BRZ	SoPac	Multi	Rancho Palos Verdes	CA
+133	Evan Schickel	5	Street Touring Xtreme	False	True	33	2004	Mazda RX-8	NNJ	Northeast	Yokohama*	Brooklyn	NY
+173	James Tatad	6	Street Touring Xtreme	False	True	73	2013	Subaru BRZ	NNJ	Northeast	Yokohama*	Brooklyn	NY
+88	Justin Tsang	7	Street Touring Xtreme	False	True	188	2013	Subaru BRZ	SFR	NorPac	Yokohama*	Hayward	CA
+129	Glen Hernandez	8	Street Touring Xtreme	False	True	29	2015	Scion FR-S	Nwst	NorPac	Yokohama	Marysville	WA
+197	Michael Carpenter	9	Street Touring Xtreme	False	True	97	2012	BMW 128i	Utah	Rocky Moun	Yokohama*	Draper	UT
+186	Manfred Reysser	10	Street Touring Xtreme	True	True	86	2013	Scion FR-S	AZB	SoPac	Multi	Mesa	AZ
+60	Tj Tiu	11	Street Touring Xtreme	True	True	160	2013	Scion FR-S	LV	Southwest	Yokohama*	Las Vegas	NV
+80	Adrian Cardenas	12	Street Touring Xtreme	True	False	0	2010	Mazda RX8	CSCC	Southwest	Bridgestone	San Gabriel	CA
+160	Marlon Tecson	13	Street Touring Xtreme	False	True	60	2013	Scion FR-S	LV	Southwest	Yokohama*	Las Vegas	NV
+90	Adam Tarnoff	14	Street Touring Xtreme	False	False	0	2004	Mazda RX8	CSCC	SoPac	Bridgestone	Lawndale	CA
+187	Eric Koehler	15	Street Touring Xtreme	False	True	87	2013	Subaru BRZ	Milw	Central	Yokohama*	Kronenwetter	WI
+73	Rad Tatis	16	Street Touring Xtreme	False	True	173	2013	Subaru BRZ	NNJ	Northeast	Yokohama*	Westwood	NJ
+184	Scott Dixon	17	Street Touring Xtreme	False	True	84	2015	Subaru BRZ	Nwst	NorPac	Yokohama*	Mukilteo	WA
+87	Peter Modjeski	18	Street Touring Xtreme	False	True	187	2013	Subaru BRZ	Milw	Central	Yokohama*	Hartford	WI
+84	Brad Herley	19	Street Touring Xtreme	False	True	184	2015	Subaru BRZ	Nwst	NorPac	Yokohama*	Sammamish	WA
+195	Terence Chang	20	Street Touring Xtreme	False	True	95	2016	Subaru BRZ	CSCC	SoPac	Multi	Rolling Hills Estate	CA
+93	Teddie Alexandrova	21	Street Touring Xtreme	False	True	193	2015	Subaru BRZ	SFR	NorPac	Yokohama*	Fresno	CA
+97	Brandon Davis	22	Street Touring Xtreme	False	True	197	2012	BMW 128i	Utah	Rocky Moun	Yokohama*	Draper	UT
+33	Aaron Shoe	23	Street Touring Xtreme	False	True	133	2004	Mazda RX-8	PHL	Northeast	Yokohama*	Bear	DE
+94	Jeffrey Pierce	24	Street Touring Xtreme	False	True	194	2007	Honda Civic Si	RdRv	Southeast	Yokohama*	Eros	LA
+92	Brandon Slater	25	Street Touring Xtreme	False	False	0	2015	Subaru BRZ	Tex	Southwest	BFGoodrich	Crowley	TX
+69	Derek Punch	26	Street Touring Xtreme	False	True	169	2013	Subaru brz	SanD	SoPac	Bridgestone	Escondido	CA
+74	Alex Meramo	27	Street Touring Xtreme	False	False	0	2014	Scion FRS	PHL	Northeast	Yokohama*	Philadelphia	PA
+113	Chase Helm	28	Street Touring Xtreme	False	True	13	2008	Honda Civic Si	Bucc	Southeast	BFGoodrich	Havelock	NC
+194	Justin Tilus	29	Street Touring Xtreme	False	True	94	2007	Honda Civic Si	Atl	Great Lakes	Yokohama*	Suwanee	GA
+29	Joey Jones	30	Street Touring Xtreme	False	True	129	2015	Scion FR-S	Nwst	NorPac	Yokohama*	Seattle	WA
+78	Cassidy Coghlin	31	Street Touring Xtreme	False	True	178	2014	Scion FRS	Ore	NorPac	Bridgestone	Portland	OR
+168	John Krom	32	Street Touring Xtreme	False	True	68	2015	Subaru BRZ	WDC	Northeast	BFGoodrich	Church View	VA
+157	Bob Day	33	Street Touring Xtreme	False	True	57	2015	Subaru BRZ	FLR	Northeast	Bridgestone*	Holley	NY
+178	Rio Rios	34	Street Touring Xtreme	False	True	78	2014	Scion FR-S	Ore	NorPac	Bridgestone	Portland	OR
+57	Colin Kingsley	35	Street Touring Xtreme	False	True	157	2015	Subaru BRZ	FLR	Northeast	Bridgestone*	Pittsford	NY
+68	Keith Kasmire	36	Street Touring Xtreme	False	True	168	2015	Subaru BRZ	ODR	Southeast	BFGoodrich	Virginia Beach	VA
+199	David Wells	37	Street Touring Xtreme	False	True	99	2013	Subaru BRZ	FLA	Southeast	BFGoodrich	Fort Lauderdale	FL
+81	Nicholas Wolfgang	38	Street Touring Xtreme	False	True	181	2017	Subaru BRZ	WDC	Northeast	Bridgestone	Leesburg	VA
+86	Elliot Loo	39	Street Touring Xtreme	False	True	186	2013	Scion FR-S	HI	Southwest	Multi	Honolulu	HI
+13	Lisa Keyes	40	Street Touring Xtreme	False	True	113	2008	Honda Civic	si	Southeast	BFGoodrich	Apex	NC
+181	Daniel Eshleman	41	Street Touring Xtreme	False	True	81	2017	Subaru BRZ	Badl	Midwest	Bridgestone	Fargo	ND
+188	Mack Tsang	42	Street Touring Xtreme	False	True	88	2013	Subaru	SFR	NorPac	Yokohama*	Union City	CA
+99	Craig Ellis	43	Street Touring Xtreme	False	True	199	2013	Subaru BRZ	CFR	Southeast	BFGoodrich	Fort Myers	FL
+86	Kate Fisher	1	Street Touring Xtreme Ladies	True	False	0	2013	Scion FRS	AZB	SoPac	Yokohama*	Chandler	AZ
+29	Jodi Fordahl	2	Street Touring Xtreme Ladies	True	False	0	2015	Scion FRS	Nwst	NorPac	Yokohama*	Bremerton	WA
+87	Megan Koehler	3	Street Touring Xtreme Ladies	False	False	0	2013	Subaru BRZ	Milw	Midwest	Yokohama*	Kronenwetter	WI
+80	Catherine Tran	4	Street Touring Xtreme Ladies	False	False	0	2010	Mazda Rx8	CSCC	Southwest	Bridgestone	Costa Mesa	CA
+144	Eric Stoltz	1	Street Touring Sport	True	True	44	1992	Mazda Miata	SnRv	NorPac	Yokohama	Buhl	ID
+173	Emanuel Martin	2	Street Touring Sport	False	True	73	1990	Mazda Miata	CILL	Midwest	Yokohama*	Urbana	IL
+195	Adam Barber	3	Street Touring Sport	False	True	95	1988	Honda CRX	Milw	Central	Yokohama*	Minneapolis	MN
+146	Rich DiMarco	4	Street Touring Sport	False	True	46	1991	Mazda Miata	PHL	Northeast	Yokohama*	Holland	PA
+191	Mark McKnight	5	Street Touring Sport	False	True	91	1988	Honda CRX	Milw	Central	Yokohama*	Sullivan	WI
+96	Gerry Terranova	6	Street Touring Sport	False	False	0	1992	Mazda Miata	Tex	Southwest	Yokohama*	Rowlett	TX
+197	Andrew Canak	7	Street Touring Sport	False	True	97	1993	Toyota MR2	Milw	Central	Yokohama*	West Allis	Wi
+73	Adam Deffenbaugh	8	Street Touring Sport	False	True	173	1990	Mazda Miata	CILL	Central	Yokohama*	Charleston	IL
+44	Darrell McVey	9	Street Touring Sport	False	True	144	1992	Mazda Miata	SnRv	NorPac	Yokohama	Eagle	ID
+84	Riley Heaton	10	Street Touring Sport	True	True	184	1988	Honda CRX Si	NEB	Midwest	Yokohama*	Omaha	NE
+97	Chris Bailey	11	Street Touring Sport	True	True	197	1993	Toyota MR2	Milw	Central	Yokohama*	Wauwatosa	WI
+143	Nathan Witt	12	Street Touring Sport	True	True	43	1992	Mazda Miata	Badl	Midwest	Yokohama*	Minot	ND
+16	Ian Baker	13	Street Touring Sport	False	True	116	1988	Honda CRX Si	WDC	Northeast	Bridgestone	Herndon	VA
+95	Will Hornseth	14	Street Touring Sport	False	True	195	1988	Honda CRX Si	Milw	Central	Yokohama*	Plymouth	MN
+43	Brent Schneekloth	15	Street Touring Sport	False	True	143	1992	Mazda Miata	NEB	Midwest	Yokohama*	Sioux Falls	SD
+155	Christopher Vreeland	16	Street Touring Sport	False	True	55	1988	Honda CRX Si	Utah	Rocky Moun	BFGoodrich	Layton	UT
+46	Steven Berrodin	17	Street Touring Sport	False	True	146	1991	Mazda Miata	PHL	Northeast	Yokohama*	North Wales	PA
+116	Mike Snyder	18	Street Touring Sport	False	True	16	1988	Honda CRX Si	WDC	Northeast	Bridgestone	Colorado Springs	CO
+184	Andrew Clark	19	Street Touring Sport	False	True	84	1988	Honda CRX Si	NEB	Midwest	Yokohama*	Papillion	NE
+57	Kevin Gu	20	Street Touring Sport	False	True	157	1988	Honda CRX Si	DET	Great Lakes	BFGoodrich	Farmington Hills	MI
+83	Jay McKoskey	21	Street Touring Sport	False	True	183	1990	Mazda Miata	LOL	Central	Bridgestone*	Forest Lake	MN
+98	Jim Perrin	22	Street Touring Sport	False	True	198	1990	Mazda Miata	WNY	Northeast	Yokohama*	Farmington	NY
+198	Shaun Hallam	23	Street Touring Sport	False	True	98	1990	Mazda Miata	FLR	Northeast	Yokohama*	PENFIELD	NY
+157	Todd Kunze	24	Street Touring Sport	False	True	57	1988	Honda CRX	OVR	Midwest	BFGoodrich	Columbus	OH
+85	Jacob Witt	25	Street Touring Sport	False	True	185	1991	Mazda Miata	LOL	Central	Yokohama*	Pemberton	MN
+185	Bryan Adams	26	Street Touring Sport	False	True	85	1991	Mazda Miata	Badl	Midwest	Yokohama*	Minot	ND
+150	Dawson Moreau	27	Street Touring Sport	False	True	50	1992	Mazda Miata	Mont	Midwest	Yokohama*	Minot	ND
+14	Jacob Ronald	28	Street Touring Sport	False	False	0	1990	Mazda Miata	NER	Northeast	BFGoodrich	Canton	MA
+48	Felipe Gonzalez	29	Street Touring Sport	False	True	148	1990	Mazda Miata	LOL	Central	Bridgestone	WOODBURY	MN
+148	Gordon Kuhnley	30	Street Touring Sport	False	True	48	1990	Mazda Miata	LOL	Central	Bridgestone	Saint Paul	MN
+91	Todd Roppuld	31	Street Touring Sport	False	True	191	1988	Honda CRX	Milw	Central	Yokohama*	Sturgeon Bay	WI
+183	Dave Salas	32	Street Touring Sport	False	True	83	1990	Mazda Miata	Milw	Central	Bridgestone	Minneapolis	MN
+50	Thomas Waylett	33	Street Touring Sport	False	True	150	1992	Mazda Miata	Badl	Midwest	Yokohama*	Harvey	ND
+49	Alan Salnikov	34	Street Touring Sport	False	True	149	1990	Mazda Miata	NER	Northeast	Bridgestone	Walpole	MA
+55	Tucker Stewart	35	Street Touring Sport	False	True	155	1988	Honda CRX	Utah	Rocky Moun	BFGoodrich	Billings	MT
+199	Gary Cameron	36	Street Touring Sport	False	True	99	1990	Mazda Miata	SanD	SoPac	BFGoodrich	San Diego	CA
+149	Mark Ponusky	37	Street Touring Sport	False	True	49	1990	Mazda Miata	NER	Northeast	Bridgestone	Leominster	MA
+156	Andrew Edgecomb	38	Street Touring Sport	False	True	56	1990	Mazda Miata	FLR	Northeast	Bridgestone	West Henrietta	NY
+99	Mark Wolfe	39	Street Touring Sport	False	True	199	1990	Mazda Miata	SanD	Southwest	BFGoodrich	Lakeside	CA
+12	Ralph Elder	40	Street Touring Sport	False	False	0	1989	Honda Civic si	SFR	NorPac	BFGoodrich	Folsom	CA
+134	Aj Snyder	41	Street Touring Sport	False	True	34	1996	Mazda Miata	CCR	Southeast	BFGoodrich	Gastonia	NC
+56	Sam Creasey	42	Street Touring Sport	False	True	156	1990	Mazda Miata	NER	Northeast	Bridgestone	Cambridge	MA
+77	Dave Ruybal	43	Street Touring Sport	False	False	0	2008	Mini Cooper	RioG	Rocky Moun	Bridgestone*	Albuquerque	NM
+34	Lexie Murray	44	Street Touring Sport	False	True	134	1996	Mazda Miata	CCR	Southeast	BFGoodrich	Gastonia	NC
+127	Alex Piehl	1	Street Touring Hatch	True	True	27	2014	Subaru WRX	STC	Northeast	Yokohama*	Pittsburgh	PA
+86	Ken Roller	2	Street Touring Hatch	True	False	0	2002	Subaru Impreza WRX	PHL	Northeast	Yokohama	Philadelphia	PA
+199	Thomas Thompson	3	Street Touring Hatch	True	True	99	2016	Audi TT	Hous	Southwest	Yokohama*	Houston	TX
+99	Peter Lindberg	4	Street Touring Hatch	True	True	199	2016	Audi TT	Hous	Southwest	Yokohama*	Fort Worth	TX
+27	Chad Englert	5	Street Touring Hatch	True	True	127	2014	Subaru	WRX	Northeast	Yokohama*	Mount Pleasant	PA
+198	Brian Flanagan	6	Street Touring Hatch	True	True	98	2017	Volkswagen GT-Aye!	CHA	Southeast	Bridgestone	Signal Mtn	TN
+98	Jason Vehige	7	Street Touring Hatch	False	True	198	2017	Volkswagen GTI	SWV	Great Lakes	Bridgestone	Chattanooga	TN
+55	David Crusoe	8	Street Touring Hatch	False	True	155	2017	Volkswagen GTI	NEB	Midwest	Bridgestone	Papillion	NE
+89	Tim Heaton	9	Street Touring Hatch	False	True	189	2016	Subaru WRX	NEB	Midwest	BFGoodrich	Omaha	NE
+189	Julie Heaton	10	Street Touring Hatch	True	True	89	2016	Subaru WRX	NEB	Midwest	BFGoodrich	Omaha	NE
+155	Samuel Krauss	11	Street Touring Hatch	True	True	55	1995	Eagle Talon TSi AWD	CKY	Great Lakes	Yokohama*	Midwest City	OK
+75	Steve Garnjobst	12	Street Touring Hatch	True	False	0	2016	Volkswagen GTI	Milw	Central	Bridgestone	Maplewood	MN
+4	Brian Fipps	13	Street Touring Hatch	True	False	0	2008	Mazda Mazdaspeed 3	NEOK	Midwest	Bridgestone	El Reno	OK
+39	Tim Miller	14	Street Touring Hatch	True	False	0	2018	Subaru WRX	NEB	Midwest	Yokohama*	Sioux Falls	SD
+181	Austin Dowda	15	Street Touring Hatch	True	True	81	2005	Saab 9-2X	Utah	Rocky Moun	Bridgestone*	Midvale	UT
+97	Bradley Walker	16	Street Touring Hatch	True	False	0	2002	Subaru WRX	Almo	Southwest	Bridgestone	San Antonio	TX
+81	Danial Ebling	17	Street Touring Hatch	True	True	181	2005	Saab 9-2x	Utah	Rocky Moun	Bridgestone*	Murray	UT
+77	Eric Hunter	18	Street Touring Hatch	True	False	0	2007	Mazda Mazdaspeed 3	NEOK	Midwest	Bridgestone	Tulsa	OK
+89	Eric Stemler	1	Super Street Prepared	True	True	189	2003	Chevrolet Corvette Z0	CHI	Central	Hoosier	Peoria	IL
+69	Matthew Braun	2	Super Street Prepared	True	True	169	2019	Porsche 911 GT3 RS	DET	Great Lakes	Hoosier	Plymouth	MI
+59	Ryan Johnson	3	Super Street Prepared	True	True	159	2006	Lotus Elise	Utah	Rocky Moun	Hoosier	Draper	UT
+194	Alek Tziortzis	4	Super Street Prepared	True	True	94	2002	Chevrolet Corvette Z0	CHI	Central	Hoosier	Palatine	IL
+169	Rad Delgado	5	Super Street Prepared	True	True	69	2019	Porsche 911 GT3 RS	FLA	Southeast	Hoosier	Fort Lauderdale	FL
+195	Keith Brown	6	Super Street Prepared	False	True	95	2016	Porsche Cayman GT4	Nwst	NorPac	Hoosier	Des Moines	WA
+87	Ambrose Fung	7	Super Street Prepared	False	True	187	2018	Porsche GT3	Nwst	NorPac	Hoosier	Calgary	AB
+91	Eric Hyman	8	Super Street Prepared	False	False	0	2018	Lamborghini Huracan P	LnSt	Southwest	Hoosier	Austin	TX
+159	Kevin Schultz	9	Super Street Prepared	False	True	59	2006	Chevrolet Corvette	Utah	Rocky Moun	Hoosier	Morgan	UT
+44	Jonathan Kuo	10	Super Street Prepared	True	True	144	2018	McLaren 720s	Colo	Rocky Moun	Hoosier	Aurora	CO
+187	Jay Zelazo	11	Super Street Prepared	True	True	87	2018	Porsche GT3	Nwst	NorPac	Hoosier	Calgary	AB
+94	Bill Myers	13	Super Street Prepared	True	True	194	2002	Chevrolet Corvette Z0	CHI	Central	Hoosier	Buffalo Grove	IL
+95	Kristi Brown	14	Super Street Prepared	True	True	195	2016	Porsche Cayman	Nwst	NorPac	Hoosier	Des Moines	WA
+47	Thomas Moore	15	Super Street Prepared	True	False	0	1999	Chevrolet Corvette	NER	Northeast	Hoosier	Bloomfield	CT
+64	Vladimir Grebenyuk	16	Super Street Prepared	True	False	0	2001	Porsche 911 Turbo	KCR	Midwest	Yokohama*	Overland Park	KS
+172	Tom Berry	1	A Street Prepared	True	True	72	2006	Mitsubishi Evo 9 RS	CSCC	SoPac	Hoosier	Rancho Cucamonga	CA
+146	Aaron Miller	2	A Street Prepared	True	True	46	2005	Mitsubishi Evo 8 RS	DET	Great Lakes	Hoosier	Auburn Hills	mi
+194	Ryan Pemberton	3	A Street Prepared	True	True	94	2006	Mitsubishi Evolution I	NEB	Midwest	Hoosier	La Vista	NE
+72	Christine Grice	4	A Street Prepared	True	True	172	2006	Mitsubishi Evo 9	CSCC	SoPac	Hoosier	Redondo Beach	CA
+103	Cory Hockenbury	5	A Street Prepared	False	True	3	2011	BMW 1M	NEP	Northeast	Hoosier	East Stroudsburg	PA
+94	William Pemberton	6	A Street Prepared	False	True	194	2006	Mitsubishi Evo 9	NEB	Midwest	Hoosier	Blair	NE
+97	Tony Rivera	7	A Street Prepared	False	False	0	1993	Mazda RX-7	SanD	SoPac	Hoosier	Oceanside	CA
+3	Ryan Hockenbury	8	A Street Prepared	False	True	103	2011	BMW 1M	NEP	Northeast	Hoosier	Hazle Township	PA
+17	Philip Burkhart	9	A Street Prepared	False	False	0	1993	Mazda RX7	CHI	Midwest	Hoosier	Morris	IL
+46	Francis Miller	10	A Street Prepared	True	True	146	2005	Mitsubishi Evo 8 RS	DET	Great Lakes	Hoosier	Peoria	AZ
+194	Ron Bauer	1	B Street Prepared	True	True	94	2016	Mazda Miata	Nwst	NorPac	Hoosier	Seatac	WA
+186	Gregory Hahn	2	B Street Prepared	True	True	86	2004	Honda S2000	CFR	Southeast	Hoosier	Coral Springs	FL
+199	David Smart	3	B Street Prepared	True	True	99	2016	Mazda MX-5	Tex	Southwest	Hoosier	Plano	TX
+94	Joe Goeke	4	B Street Prepared	True	True	194	2016	Mazda MX5	Nwst	NorPac	Hoosier	Kirkland	WA
+126	Chris Edens	5	B Street Prepared	True	True	26	2005	Mazda MSMiata	ARK	Midwest	Hoosier	Sherwood	AR
+86	Sacha Tauber	6	B Street Prepared	False	True	186	2004	Honda S2000	CCR	Southeast	Hoosier	Wake forest	NC
+25	Christopher Wanner	8	B Street Prepared	False	True	125	2004	Mazda Mazdaspeed M	PHL	Northeast	Hoosier	Red Hill	PA
+118	Noah Feldstein	9	B Street Prepared	False	True	18	2005	Mazda Mazdaspeed M	NEO	Great Lakes	Hoosier	Peninsula	OH
+125	Matthew Meyer	10	B Street Prepared	True	True	25	2004	Mazda MiataMazdasp	PHL	Northeast	Hoosier	Harleysville	PA
+132	Dennis Barrett	11	B Street Prepared	True	True	32	2011	Nissan 370Z Nismo	NOW	Great Lakes	Hoosier	Columbia Station	OH
+18	Matt Murray	12	B Street Prepared	True	True	118	2005	Mazda Miata	NNJ	Northeast	Hoosier	Westport	CT
+32	Matt Butz	13	B Street Prepared	True	True	132	2011	Nissan 370Z Nismo	NOW	Great Lakes	Hoosier	Perrysburg	OH
+26	Lacie Edens	14	B Street Prepared	True	True	126	2005	Mazda MSMiata	ARK	Midwest	Hoosier	Sherwood	AR
+19	JJ Kramer	15	B Street Prepared	True	False	0	2009	Nissan 370Z	Iowa	Midwest	Hoosier*	Marion	IA
+199	Billy Davis	1	C Street Prepared	True	True	99	1999	Mazda Miata	NER	Northeast	Hoosier	New Haven	CT
+198	Neal Tovsen	2	C Street Prepared	True	True	98	2001	Mazda Miata	Milw	Central	Hoosier	Apple Valley	MN
+99	Bob Davis	3	C Street Prepared	True	True	199	1999	Mazda Miata	NER	Northeast	Hoosier	New Haven	CT
+197	Matthew Hodges	4	C Street Prepared	True	True	97	1999	Mazda Miata	STL	Central	Hoosier	Saint Louis	MO
+98	Todd Cochran	5	C Street Prepared	True	True	198	2001	Mazda Miata	Milw	Central	Hoosier	Minneapolis	MN
+195	Hector San Nicolas	6	C Street Prepared	False	True	95	1995	Mazda Miata	CFR	Southeast	Hoosier	Hollywood	FL
+95	Oliver Licul	7	C Street Prepared	False	True	195	1995	Mazda Miata	CFR	Southeast	Hoosier	KEY BISCAYNE	FL
+31	Cody Gromel	8	C Street Prepared	False	False	0	1995	Mazda Miata	NEP	Northeast	Hoosier	Wilkes Barre	PA
+104	Brent Crowl	9	C Street Prepared	False	True	4	1993	Mazda Miata	CCR	Southeast	Hoosier	Winston Salem	NC
+4	Anthony Hodges	10	C Street Prepared	True	True	104	1993	Mazda Miata	CCR	Southeast	Hoosier	Stokesdale	NC
+97	Mark Prewitt	11	C Street Prepared	True	True	197	1999	Mazda Miata	STL	Midwest	Hoosier	Ballwin	MO
+191	Steve Eberlein	12	C Street Prepared	True	True	91	1990	Mazda Miata	Tex	Southwest	Hoosier	Aledo	TX
+176	Brian Wells	13	C Street Prepared	True	True	76	2001	Mazda Miata	ODR	Southeast	Hoosier	Elizabeth City	NC
+91	Bob Neff	14	C Street Prepared	True	True	191	1990	Mazda Miata	Tex	Southwest	Hoosier	Allen	TX
+76	Bryan Hayes	15	C Street Prepared	True	True	176	2002	Mazda Miata	CCR	Southeast	Hoosier	simpsonville	SC
+8	Sean Dudgeon	16	C Street Prepared	True	True	8	1995	Mazda Miata	OKLA	Midwest	Hoosier	Norman	OK
+23	Tane Hopu	17	C Street Prepared	True	False	0	1992	Mazda Miata	CFR	Southeast	Hoosier*	Orlando	FL
+98	Katie Lacey	1	C Street Prepared Ladies	True	False	0	2001	Mazda Miata	Milw	Central	Hoosier	Apple Valley	MN
+176	Stephanie Humphries	2	C Street Prepared Ladies	False	True	76	2002	Mazda Miata	NCR	Southeast	Hoosier	Windsor	VA
+76	Maegan Contreras	3	C Street Prepared Ladies	False	True	176	2002	Mazda Miata	Colo	Rocky Moun	Hoosier	Colorado Springs	CO
+199	Tamra Krystinik	1	D Street Prepared	True	True	99	2005	Mazda RX-8	NER	Northeast	Hoosier	Middlefield	CT
+194	Steve OBlenes	2	D Street Prepared	True	True	94	2005	Mazda RX8	CSCC	SoPac	Hoosier	Garden Grove	CA
+158	Ryan Finch	3	D Street Prepared	True	True	58	2003	Mazda RX8	NOW	Great Lakes	Hoosier	Niles	MI
+99	Andrew Krystinik	4	D Street Prepared	True	True	199	2005	Mazda RX-8	NER	Northeast	Hoosier	Middlefield	CT
+94	Tim Kong	5	D Street Prepared	True	True	194	2005	Mazda RX-8	NER	Northeast	Hoosier	Port Chester	NY
+58	David Colletti	6	D Street Prepared	True	True	158	2004	Mazda RX8	NOW	Great Lakes	Hoosier	Troy	MI
+159	Mark Canekeratne	7	D Street Prepared	False	True	59	2002	BMW 330 Ci	GuCo	Southeast	Hoosier	Gulf Breeze	FL
+144	Michael Feldpusch	8	D Street Prepared	False	True	44	1995	BMW 325is	Colo	Rocky Moun	Hoosier	Westminster	CO
+154	Doug Keiler	9	D Street Prepared	False	True	54	1999	BMW 323i	WDC	Southeast	Hoosier	Virginia Beach	VA
+59	Romesh Canekeratne	10	D Street Prepared	True	True	159	2002	BMW 330 Ci	GuCo	Southeast	Hoosier	Gulf Breeze	FL
+44	Doug Young	11	D Street Prepared	True	True	144	1995	BMW 325i	Colo	Rocky Moun	Hoosier	Broomfield	CO
+166	Mike Brausen	12	D Street Prepared	True	True	66	2007	Mazda RX8	Milw	Central	Hoosier	Bloomington	MN
+195	Aaron Breitbach	13	D Street Prepared	True	True	95	2007	Mazda RX8	Iowa	Central	Hoosier	Denver	IA
+66	Mike Razny	14	D Street Prepared	True	True	166	2007	Mazda Rx8	CHI	Central	Hoosier	Lake Zurich	IL
+18	Marcus Kroll	15	D Street Prepared	True	True	118	2008	Mazda rx8	FLR	Northeast	Hoosier	Pittsford	NY
+54	Peter Florance	16	D Street Prepared	True	True	154	1999	BMW 323i	ODR	Southeast	Hoosier	Virginia Beach	VA
+118	John Hatakeyama	17	D Street Prepared	True	True	18	2008	Mazda RX-8	FLR	Northeast	Hoosier	Henrietta	NY
+95	Lanie Breitbach	18	D Street Prepared	True	True	195	2007	Mazda RX8	Iowa	Midwest	Hoosier	New Hampton	IA
+107	Buck Entriken	19	D Street Prepared	True	True	7	2000	Mazda MX5	Tex	Southwest	Bridgestone	Terrell	TX
+7	Rocky Entriken Jr.	20	D Street Prepared	True	True	107	2000	Mazda MX5	SAL	Midwest	Bridgestone	Salina	KS
+46	Jeff Wong	1	E Street Prepared	True	False	0	2017	Chevrolet Camaro SS	CSCC	SoPac	Hoosier	Moorpark	CA
+67	Clint Griest	2	E Street Prepared	True	False	0	2006	Mazda Speed6	IND	Central	Hoosier	Auburn Hills	MI
+196	PJ Corrales	3	E Street Prepared	True	True	96	2004	Infiniti G35 Coupe	NER	Northeast	Hoosier	Rocky Hill	CT
+18	Devin Taylor	4	E Street Prepared	True	False	0	1994	Chevrolet Camaro Z28	NOW	Great Lakes	Hoosier	Columbus	OH
+150	James Darden	5	E Street Prepared	True	True	50	2017	Chevrolet Camaro	Colo	Unknown	Hoosier		Ro
+96	Bryan Mancuso	6	E Street Prepared	False	True	196	2004	Infiniti G-Body	NER	Northeast	Hoosier	Terryville	CT
+141	Michael Snyder	7	E Street Prepared	False	True	41	2007	Ford Shelby GT	WDC	Northeast	Hoosier	Burtonsville	MD
+9	Korry Berger	8	E Street Prepared	False	False	0	1996	Chevrolet Camaro Z28	PHL	Northeast	Hoosier	Easton	PA
+199	Jeff Cox	9	E Street Prepared	False	True	99	2010	Ford Mustang GT500	ETR	Southeast	Hoosier	Knoxville	TN
+50	Stanley Whitney	10	E Street Prepared	True	True	150	2017	Chevrolet Camaro	Tex	Southwest	Hoosier	Frisco	TX
+24	Jay Cryderman	11	E Street Prepared	True	True	124	2013	Ford Mustang GT	Almo	Southwest	Hoosier	San Antonio	TX
+99	Scott Dobler II	12	E Street Prepared	True	True	199	2010	Ford Mustang	CHA	Southeast	Hoosier	Nashville	TN
+124	Eric Yee	13	E Street Prepared	True	True	24	2013	Ford Mustang GT	Almo	Southwest	Hoosier	San Antonio	TX
+41	Kirk Boston	14	E Street Prepared	True	True	141	2007	Ford Mustang Shelby	WDC	Northeast	Hoosier	Severn	MD
+46	Nicole Wong	1	E Street Prepared Ladies	True	False	0	2017	Chevrolet Camaro SS	CSCC	SoPac	Hoosier	Moorpark	CA
+67	Johanna FoegeGriest	2	E Street Prepared Ladies	True	False	0	2006	Mazda Speed6	DET	Midwest	Hoosier	Westland	MI
+199	Jojo Corrales-Kean	3	E Street Prepared Ladies	True	True	99	2004	Infiniti G35 Coupe	NER	Northeast	Hoosier	Wallingford	CT
+97	Brittany Paris	4	E Street Prepared Ladies	False	True	197	2010	Ford Mustang	DET	Great Lakes	Hoosier	Milford	WI
+50	Tina Edington	5	E Street Prepared Ladies	False	False	0	2017	Chevrolet Camaro	Colo	Rocky Moun	Hoosier	Thornton	Co
+39	Samantha Whitworth	6	E Street Prepared Ladies	False	False	0	2012	Ford Mustang	NEB	Midwest	Hoosier	Saint Louis	MO
+99	Tina Moreau	7	E Street Prepared Ladies	False	True	199	2004	Infiniti G35 Coupe	NER	Northeast	Hoosier	Waltham	MA
+197	Lin Cox	8	E Street Prepared Ladies	False	True	97	2010	Ford Mustang	ETR	Southeast	Hoosier	Knoxville	TN
+97	Steven Duckworth	1	F Street Prepared	True	True	197	1977	Volkswagen Rabbit	CCR	Southeast	Hoosier	Mt Holly	NC
+186	Jason West	2	F Street Prepared	True	True	86	1986	Toyota Corolla GTS	CDR	Rocky Moun	Hoosier	Colorado Springs	CO
+197	Geoffrey Zimmer	3	F Street Prepared	True	True	97	1977	Volkswagen Rabbit	SCR	Southeast	Hoosier	Lexington	SC
+86	Nick Myers	4	F Street Prepared	True	True	186	1986	Toyota Corolla GTS	IND	Great Lakes	Hoosier	Danville	IN
+127	Andrew Blasiman	5	F Street Prepared	True	True	27	1983	Volkswagen Rabbit GT	NOW	Great Lakes	Hoosier	Pemberville	OH
+51	Jay Bonvouloir	6	F Street Prepared	False	True	151	1985	Honda CRX	Colo	Rocky Moun	Hoosier	Thornton	CO
+198	Theodore Skinner	7	F Street Prepared	False	True	98	1995	BMW 318TI	SanD	SoPac	Hoosier	Lakeside	CA
+98	Todd Skinner	8	F Street Prepared	False	True	198	1995	BMW 318TI	SanD	SoPac	Hoosier	Lakeside	CA
+151	John Bonvouloir	9	F Street Prepared	False	True	51	1985	Honda CRX	Colo	Rocky Moun	Hoosier	Nederland	CO
+116	Josh Perry	10	F Street Prepared	True	True	16	1992	Mazda Protege	CKY	Central	Hoosier	Winchester	KY
+61	George Schweikle	11	F Street Prepared	True	False	0	1976	Alfa Romeo Spider	CKY	Great Lakes	Hoosier	Lexington	KY
+13	Andrew Buck	12	F Street Prepared	True	False	0	1996	Nissan 200SX Se-R	CKY	Great Lakes	Hoosier	Lexington	KY
+113	Gregory Anthony	13	F Street Prepared	True	True	13	1998	Dodge Neon ACR	DET	Great Lakes	Hoosier	Waterford	MI
+16	Matt Moore	14	F Street Prepared	True	True	116	1993	Mazda Protege	CKY	Great Lakes	Hoosier	Nicholasville	KY
+179	Jason Kuks	15	F Street Prepared	True	True	79	1998	Dodge Neon R/T	Milw	Central	Hoosier	Milwaukee	WI
+27	Doug Stoots	16	F Street Prepared	True	True	127	1983	Volkswagen Rabbit GT	NOW	Midwest	Hoosier	MAUMEE	OH
+79	Thomas Middleton	17	F Street Prepared	True	True	179	1998	Dodge Neon	Milw	Midwest	Hoosier	Hartland	WI
+86	Emily Danti	1	F Street Prepared Ladies	True	False	0	1986	Toyota Corolla GTS	CDR	Rocky Moun	Hoosier	Colorado Springs	CO
+51	Annie Bonvouloir	2	F Street Prepared Ladies	True	False	0	1985	Honda CRX	Colo	Rocky Moun	Hoosier	Nederland	CO
+16	Lauren Keach	3	F Street Prepared Ladies	False	False	0	1993	Mazda Protege	CKY	Great Lakes	Hoosier	Lexington	KY
+97	Nadine Zimmer	4	F Street Prepared Ladies	False	False	0	1977	Volkswagen Rabbit	SCR	Southeast	Hoosier	Lexington	SC
+61	Susan Anderson	5	F Street Prepared Ladies	False	True	161	1976	Alfa Romeo Spider	SILR	Midwest	Hoosier	Florissant	MO
+161	Dee Schweikle	6	F Street Prepared Ladies	False	True	61	1976	Alfa Romeo Spider	CKY	Great Lakes	Hoosier	Lexington	KY
+80	Robert Thorne	1	Super Street Modified	True	False	0	2008	Honda S2k BigBadWol	Colo	Rocky Moun	Hoosier	NEWTOWN	CO
+196	Randall Wilcox	2	Super Street Modified	True	True	96	1996	Mazda Miata	TEN	Southeast	Hoosier	Hermitage	TN
+191	Ryan Field	3	Super Street Modified	True	True	91	1996	Mazda Miata	NER	Northeast	Hoosier	Nashua	NH
+88	Bryan Carbon	4	Super Street Modified	True	True	188	2008	Lotus Elise	Atl	Southeast	Hoosier	Acworth	GA
+96	Eric Anderson	5	Super Street Modified	True	True	196	1996	Mazda Miata	TEN	Southeast	Hoosier	Knoxville	TN
+188	Matthew Glagola	6	Super Street Modified	False	True	88	2008	Lotus Elise	Atl	Southeast	Hoosier	Atlanta	GA
+159	Laurence Casey	7	Super Street Modified	False	True	59	1991	Toyota MR2	WDC	Northeast	Hoosier	Frederick	MD
+91	Matt Cwieka	8	Super Street Modified	False	True	191	1996	Mazda Miata	NER	Northeast	Hoosier	Hudson	MA
+59	Martin Valent	9	Super Street Modified	False	True	159	1991	Toyota MR2 Turbo	SWV	Great Lakes	Hoosier	Carlisle	PA
+199	Joseph Sim	10	Super Street Modified	True	True	99	1998	Porsche Boxter S	Nwst	NorPac	Hoosier	Gig Harbor	WA
+169	Andrew McGibbon	11	Super Street Modified	True	True	69	2000	Toyota MR2 Spyder	RioG	Southwest	Hoosier	Rio Rancho	NM
+156	Mike Wolf	13	Super Street Modified	True	True	56	1972	Datsun 240z	NOW	Northeast	Hoosier	Cambridge	ON
+99	Leeds Gulick	14	Super Street Modified	True	True	199	1998	Porsche Boxster	Nwst	NorPac	Hoosier	Bellevue	WA
+94	James Lockard	15	Super Street Modified	True	False	0	1994	Mazda RX7	NEB	Central	Hoosier	Omaha	NE
+98	Chris Robbins	16	Super Street Modified	True	True	98	2006	Mazda MX-5	Colo	Rocky Moun	Hoosier*	Evergreen	CO
+56	Quentin Yarie	17	Super Street Modified	True	True	156	1972	Datsun 240z	NOW	Great Lakes	Hoosier	Toronto	ON
+80	Amanda Thorne	1	Super Street Modified Ladies	True	False	0	2008	Honda S2000 Cr TheB	NNJ	Northeast	Hoosier	Newtown	Pa
+96	Deana Kelley	2	Super Street Modified Ladies	True	False	0	1996	Mazda Miata	AZB	SoPac	Hoosier	Sierra Vista	AZ
+91	Su Brude	3	Super Street Modified Ladies	False	True	191	2018	Lamborghini Huracan	Tex	Southwest	Hoosier	Pilot Point	TX
+191	Laurie Hyman	4	Super Street Modified Ladies	False	True	91	2018	Lamborghini Huracan P	LnSt	Southwest	Hoosier	Austin	TX
+52	Marshall Grice	1	Street Modified	True	True	152	2006	Mitsubishi Evolution I	CSCC	SoPac	Hoosier	Redondo Beach	CA
+152	Dallas Cutler	2	Street Modified	True	True	52	2006	Mitsubishi Evolution I	Ore	NorPac	Hoosier	Tigard	OR
+30	Daniel Stainback	3	Street Modified	True	False	0	2007	Subaru Sti	NYR	Northeast	Hoosier	Northport	NY
+99	Bill Rogerson	4	Street Modified	True	True	199	2014	Audi A4	NOW	Great Lakes	Hoosier	Seeleys Bay	ON
+159	John Vitamvas	5	Street Modified	True	True	59	2004	Infiniti	WDC	Northeast	Hoosier	Glenwood	MD
+194	Tyler Faucett	6	Street Modified	True	True	94	1996	BMW 328i	Colo	Rocky Moun	Hoosier*	Fort Collins	CO
+64	Chris Gladu	7	Street Modified	True	False	0	2005	Subaru Impreza WRX S	Colo	Rocky Moun	Hoosier	Arvada	CO
+176	Drew Hackett	8	Street Modified	False	True	76	2005	Subaru Impreza WRX S	Iowa	Midwest	Hoosier	Coralville	IA
+199	Jay Bullington	9	Street Modified	False	True	99	2014	Audi S4	CCR	Southeast	Hoosier	Mt Holly	NC
+185	Tim White	10	Street Modified	True	True	85	2008	Subaru Impreza	CCR	Southeast	Hoosier	Cayce	SC
+74	Jonathan Fudge	11	Street Modified	True	False	0	2000	Subaru 2.5RSTI	SanD	SoPac	Hoosier	San Diego	CA
+59	Rachel Baker	12	Street Modified	True	True	159	2004	Infiniti	NER	Northeast	Hoosier	Shirley	MA
+76	Ben Levy	13	Street Modified	True	True	176	2005	Subaru Subaru Imprez	FLA	Southeast	Hoosier	Fort Lauderdale	FL
+97	Kyle Gottschalk	14	Street Modified	True	False	0	1997	Mitsubishi Eclipse	CKY	Great Lakes	Hoosier*	Richmond	KY
+94	Mike Faucett	15	Street Modified	True	True	194	1996	BMW 328i	Colo	Rocky Moun	Hoosier*	Fort Collins	CO
+85	Ross Pendergast-Pedersen	16	Street Modified	True	True	185	2008	Subaru STI	CCR	Southeast	Hoosier	Concord	NC
+11	Matt Boian	17	Street Modified	True	True	111	2011	Subaru WRX	SwLa	Southwest	Hoosier*	Lumberton	TX
+43	Chris Weiske	18	Street Modified	True	True	143	2013	Subaru WRX STi	Iowa	Midwest	Bridgestone*	Eagan	MN
+111	Scott Suozzo	19	Street Modified	True	True	11	2011	Subaru Impreza WRX	SwLa	Southwest	Hoosier*	Beaumont	TX
+143	Michael Naydeck	20	Street Modified	True	True	43	2013	Subaru WRX/STI	LnSt	Southwest	Bridgestone*	Cedar Park	TX
+79	Derek Meinen	21	Street Modified	True	True	179	2005	Subaru Sti	Iowa	Midwest	Bridgestone*	North Liberty	IA
+19	Timothy Cahill	22	Street Modified	True	False	0	2005	Subaru Legacy GT	SJR	Northeast	Bridgestone*	DENVER	CO
+198	Craig Wilcox	1	Street Modified FWD	True	True	98	1999	Honda Civic	KCR	Midwest	Hoosier	Grain Valley	MO
+98	Joe Silva	2	Street Modified FWD	True	True	198	1999	Honda Civic	SAL	Midwest	Hoosier	Manhattan	KS
+197	Chris Haydu	3	Street Modified FWD	True	True	97	1988	Honda Civic	NEP	Northeast	Hoosier	Dallas	PA
+31	Mike Forsythe	4	Street Modified FWD	True	True	131	1995	Honda civic si	Colo	Rocky Moun	Hoosier	englewood	CO
+189	Jeremiah Thomas	5	Street Modified FWD	False	True	89	2007	Mini Cooper s	CPR	Northeast	Hoosier	Loganton	PA
+131	Ryan Neff	6	Street Modified FWD	False	True	31	1995	Honda Civic	Colo	Rocky Moun	Hoosier		Ze
+97	Chris Janusz	7	Street Modified FWD	False	True	197	1991	Honda Civic	NEP	Northeast	Hoosier	Hunlock Creek	PA
+89	Geoffrey Wolpert	8	Street Modified FWD	False	True	189	2007	Mini Cooper S	SUS	Northeast	Hoosier	Mount Joy	PA
+67	Daniel Moore	9	Street Modified FWD	False	True	167	1990	Honda CRX si	Tex	Central	Hoosier	Austin	TX
+167	George Hammond	10	Street Modified FWD	True	True	67	1990	Honda CRX Si	LnSt	Southwest	Hoosier	Austin	TX
+113	Andrew Hille	11	Street Modified FWD	True	True	13	2013	Honda CRZ	NOW	Northeast	Hoosier	Troy	OH
+13	Rob Wilson	12	Street Modified FWD	True	True	113	2013	Honda CRZ	NOW	Midwest	Hoosier	Ostrander	OH
+99	Monique Forsythe	1	Street Modified FWD Ladies	True	False	0	1995	Honda Civic SI	Colo	Rocky Moun	Hoosier	Englewood	CO
+198	Hilary Anderson Frank	2	Street Modified FWD Ladies	True	True	98	1999	Honda Civic	Milw	Great Lakes	Hoosier	Racine	WI
+97	Kristell Janusz	3	Street Modified FWD Ladies	False	False	0	1991	Honda Civic	NEP	Northeast	Hoosier	Hunlock Creek	PA
+98	Emma Adams	4	Street Modified FWD Ladies	False	True	198	1999	Honda Civic Si	Milw	Midwest	Hoosier	Stevens Point	WI
+31	Karen Thomas	5	Street Modified FWD Ladies	False	False	0	2007	Mini Cooper S	CPR	Northeast	Hoosier	Loganton	PA
+141	Andrew McKee	1	X Prepared	True	True	41	1993	Mazda RX7	SFR	NorPac	Goodyear	Livermore	CA
+113	David Hedderick	2	X Prepared	True	True	13	1993	Mazda RX7	Hous	Southwest	Hoosier	Manvel	TX
+13	John Hunter	3	X Prepared	True	True	113	1993	Mazda RX7	NEB	Midwest	Hoosier	Omaha	NE
+114	Mark Jr Mauro	4	X Prepared	True	True	14	1994	Mazda RX7	Colo	Rocky Moun	Hoosier	ENGLEWOOD	CO
+41	Teresa Neidel-McKee	5	X Prepared	False	True	141	1993	Mazda RX7	SFR	NorPac	Goodyear	Livermore	CA
+14	Mark Mauro	6	X Prepared	False	True	114	1994	Mazda RX-7	Colo	Rocky Moun	Hoosier	Evergreen	CO
+86	Christopher Dorsey	7	X Prepared	False	False	0	1987	Toyota Corolla GTS	Colo	Rocky Moun	Avon*	Littleton	CO
+84	Nick Gruendler	8	X Prepared	False	False	0	1990	Mazda Miata	LnSt	Southwest	Hoosier	Austin	TX
+25	Tom Exley	9	X Prepared	False	False	0	1987	Mazda Rx7 Turbo	SFR	NorPac	Avon*	Rohnert Park	CA
+72	Steve Bollinger	10	X Prepared	True	False	0	1990	Mazda Miata	SBR	Great Lakes	Hoosier	Granger	IN
+199	Ivan Pandev	11	X Prepared	True	True	99	2000	BMW 323ci	SFR	NorPac	Hoosier	Santa Clara	CA
+99	Savion Ragster	12	X Prepared	True	True	199	2000	BMW 323ci	SFR	NorPac	Hoosier*	Los Gatos	CA
+60	Tony Giordano	13	X Prepared	True	False	0	1970	Nissan 280 Z	KCR	Midwest	Hoosier*	Overland Park	KS
+13	Crissy Weaver	1	X Prepared Ladies	True	False	0	1993	Mazda RX7	Hous	Southwest	Hoosier	Manvel	TX
+72	Kim Bollinger	2	X Prepared Ladies	False	False	0	1990	Mazda Miata	SBR	Great Lakes	Hoosier	Granger	IN
+72	Tommy Pulliam	1	C Prepared	True	True	172	1965	Ford Mustang	Atl	Southeast	Goodyear*	Duluth	GA
+91	Mark Madarash	2	C Prepared	False	False	0	1988	Pontiac Trans-am	Tex	Southwest	Hoosier	Red Oak	TX
+172	Robert Lewis	3	C Prepared	False	True	72	1965	Ford Mustang	Dix	Southeast	Goodyear*	Tallahassee	FL
+123	Ethan Bradbury	4	C Prepared	False	True	23	1987	Ford thunderbird	NOW	Great Lakes	Hoosier	Oak Harbor	OH
+196	Todd Farris	5	C Prepared	False	True	96	1979	Chevrolet Camaro	Hous	Southwest	Goodyear*	Bryan	TX
+41	Chris Miller	6	C Prepared	False	False	0	1979	Ford Mustang Turbo	DMV	Midwest	Hoosier	Pleasant Hill	IA
+169	Frederick Pascual	7	C Prepared	False	True	69	1987	Ford Mustang	Nwst	NorPac	Goodyear*	Everett	WA
+136	Johnathon Stewart	8	C Prepared	False	True	36	1965	Ford Shelby	SFR	NorPac	Goodyear	Livermore	CA
+46	Britt Dollmeyer	9	C Prepared	False	True	146	2006	Ford Mustang	AZ	SoPac	Hoosier	Carefree	AZ
+19	Kyle Chipps	10	C Prepared	True	False	0	2011	Ford Mustang	SVR	Great Lakes	Hoosier	Lansing	MI
+143	Derek Latshaw	11	C Prepared	True	True	43	2006	Ford Mustang GT	SUS	Northeast	Hoosier	East Berlin	PA
+96	Jeff Minor	12	C Prepared	True	True	196	1979	Chevrolet Camaro	Hous	Southwest	Goodyear*	Spring	TX
+79	Darrel Padberg	13	C Prepared	False	True	179	1988	Ford Mustang	Dix	Southeast	Goodyear*	Live Oak	FL
+146	Tim Bergstrom	14	C Prepared	False	True	46	2006	Ford Mustang	AZ	SoPac	Hoosier	Scottsdale	AZ
+81	Paul Przyborski	15	C Prepared	False	False	0	1981	Chevrolet Camaro	WDC	Northeast	Hoosier	Catonsville	MD
+150	Jeff Seeger	16	C Prepared	False	True	50	1989	Ford Mustang 5.0	NER	Northeast	Avon*	Pepperell	MA
+118	Sean Tate	17	C Prepared	False	True	18	1993	Ford Mustang	SVR	Great Lakes	Goodyear*	Lansing	MI
+43	Dennis Latshaw	18	C Prepared	False	True	143	2006	Ford Mustang	SUS	Northeast	Hoosier	Hanover	PA
+36	Frank Stagnaro	19	C Prepared	False	True	136	1965	Ford Shelby GT 350	SFR	NorPac	Goodyear	Petaluma	CA
+27	Bob Ely	20	C Prepared	False	False	0	1969	Ford Mustang	CDR	Rocky Moun	Avon*	Colorado Springs	CO
+129	Dave Zitzlsperger	21	C Prepared	False	True	29	1981	Chevrolet Camaro	NEB	Midwest	Hoosier	Bellevue	NE
+23	John Bradbury	22	C Prepared	False	True	123	1987	Ford Thunderbird	NOW	Great Lakes	Hoosier	Oak Harbor	OH
+29	Travis Durant	23	C Prepared	False	True	129	1981	Chevrolet camaro	NEB	Midwest	Hoosier	Omaha	Ne
+121	Kurt Janish	24	C Prepared	False	True	21	1970	Chevrolet Camaro	Tex	Southwest	Hoosier	Wolfe City	TX
+53	Aaron Holstrom	25	C Prepared	False	False	0	2013	Ford Mustang	KCR	Midwest	Hoosier	Kansas City	MO
+56	Mike Fellmer	26	C Prepared	False	True	156	1997	Chevrolet Camaro	WMR	Great Lakes	Goodyear*	Lowell	MI
+58	Samuel Cosmano	27	C Prepared	False	False	0	1988	Ford Mustang	WNY	Northeast	Goodyear*	E. Aurora	NY
+156	Scott Lewis	28	C Prepared	False	True	56	1997	Chevrolet Camaro	FWR	Great Lakes	Hoosier	Columbia City	IN
+49	Albert Hermans	29	C Prepared	False	False	0	1997	Ford Mustang Cobra	KCR	Midwest	Hoosier	Raytown	MO
+90	Donna Bartling	30	C Prepared	False	True	190	1986	Ford Mustang GT	Hous	Southwest	Goodyear*	Katy	TX
+190	Anthony Espinosa	31	C Prepared	False	True	90	1986	Ford Mustang GT	Hous	Southwest	Goodyear*	Santa Fe	TX
+122	Sean Ittner	32	C Prepared	False	True	22	1986	Ford Mustang	Atl	Southeast	Hoosier	Dawsonville	GA
+34	Art Martinez	33	C Prepared	False	False	0	1982	Pontiac MSE Trans A	WICH	Midwest	Hoosier	Wichita	KS
+69	Russell Hill	34	C Prepared	False	True	169	1987	Ford Mustang	Nwst	NorPac	Goodyear*	Kent	WA
+179	Rick Ruth	35	C Prepared	False	True	79	1988	Ford Mustang	CHI	Central	Goodyear*	OFallon	MO
+17	Bill Gelinas	36	C Prepared	False	False	0	1995	Oldsmobile Hurst Old	Mont	Midwest	Hoosier	Cambridge	ON
+50	Arnold Beebe	37	C Prepared	False	True	150	1989	Ford Mustang	MHR	Northeast	Avon*	Schenectady	NY
+199	Travis Bolton	38	C Prepared	False	True	99	1968	Chevrolet Corvair	KCR	Midwest	Hoosier	Liberty	MO
+21	Tracy Sandberg	39	C Prepared	False	True	121	1970	Chevrolet Camaro Z-2	Iowa	Midwest	Hoosier	Winterset	IA
+6	Charlie Clark	40	C Prepared	False	False	0	1966	Chevrolet Corvair	KCR	Midwest	N/A	ROELAND PARK	KS
+22	Kevin Ittner	41	C Prepared	False	True	122	1986	Ford Mustang	LOL	Great Lakes	Hoosier	Dawsonville	GA
+18	Chuck Tate	42	C Prepared	False	True	118	1980	Ford mustang	SVR	Central	Goodyear*	lansing	MI
+99	Dick Berger	43	C Prepared	False	True	199	1968	Chevrolet corvair	KCR	Midwest	Hoosier	Kansas City	Mo
+20	Ron Ittner	44	C Prepared	False	True	120	2000	Ford Mustang	Atl	Southeast	Hoosier	Roswell	GA
+120	Brian Ittner	45	C Prepared	False	True	20	2000	Ford Mustang	LOL	Central	Hoosier	Dawsonville	GA
+72	Tracy Lewis	1	C Prepared Ladies	True	False	0	1965	Ford Mustang	Dix	Southeast	Goodyear*	Tallahassee	FL
+139	Elizabeth Whitworth	2	C Prepared Ladies	True	True	39	2012	Ford Mustang	NEB	Midwest	Hoosier	SAINT LOUIS	MO
+39	Alyssa Lewis	3	C Prepared Ladies	False	True	139	1965	Ford Mustang	Dix	Southeast	Goodyear*	TALLAHASSEE	FL
+81	Kate Mewhiney	4	C Prepared Ladies	False	False	0	1981	Chevrolet Camaro	WDC	Northeast	Hoosier	Catonsville	MD
+182	Todd Roberts	2	D Prepared	True	True	82	1990	Mazda Miata	LnSt	Southwest	Hoosier	Austin	TX
+196	Michael Moran	3	D Prepared	True	True	96	1996	Mazda Miata	WDC	Northeast	Hoosier	Fairfield	PA
+108	Andrew Pfotenhauer	4	D Prepared	True	True	8	1992	Mazda Miata	NOW	Great Lakes	Avon*	Toledo	OH
+98	Stephen Simonds	5	D Prepared	True	True	198	1990	Mazda Miata	Hous	Southwest	Avon	Rosharon	TX
+198	Perry Simonds	6	D Prepared	False	True	98	1990	Mazda Miata	Tex	Southwest	Avon	Lavon	TX
+93	Ron Baker	7	D Prepared	False	False	0	1996	Mazda Miata	Reno	NorPac	Hoosier	Carson City	NV
+8	Nicholas Deneault	8	D Prepared	False	True	108	1992	Mazda Miata	NOW	Great Lakes	Avon*	Berkley	MI
+71	Bret Dodson	9	D Prepared	False	True	171	1990	Mazda Miata	Nwst	NorPac	Avon	Seattle	Se
+195	Ward Marshall	10	D Prepared	True	True	95	1993	Mazda Miata	Hous	Southwest	Avon	Pearland	TX
+96	Gregory Jenkins	11	D Prepared	True	True	196	1996	Mazda Miata	WDC	Northeast	Hoosier	Sykesville	MD
+95	Rich Windberg	12	D Prepared	True	True	195	1993	Mazda Miata	LnSt	Southwest	Avon	Georgetown	TX
+82	Steve Hudson	13	D Prepared	True	True	182	1990	Mazda Miata	LnSt	Southwest	Hoosier	Austin	TX
+171	Sean Green	14	D Prepared	True	True	71	1990	Mazda Miata	Nwst	NorPac	Avon	Renton	WA
+52	Dwayne Komush	15	D Prepared	True	True	152	1982	Toyota Starlet	SFR	NorPac	Avon	Patterson	CA
+43	Paul Neal	16	D Prepared	True	False	0	1970	Datsun 510	GuCo	Southeast	Hoosier	Niceville	FL
+52	Deanne Caraballo	1	D Prepared Ladies	True	False	0	1982	Toyota Starlet	SFR	NorPac	Avon	Modesto	CA
+96	Denise Parsons	2	D Prepared Ladies	False	False	0	1996	Mazda Miata	WDC	Northeast	Hoosier	Boyds	MD
+198	Patrick Washburn	1	E Prepared	True	True	98	1999	Honda Civic	Milw	Midwest	Hoosier	Wausau	WI
+173	Evan LeBlanc	2	E Prepared	True	True	73	1990	Honda Civic GT3DX	NER	Northeast	Hoosier	Sudbury	MA
+91	Chris Raglin	3	E Prepared	True	False	0	1986	Honda Civic	NOW	Central	Hoosier	Canton	GA
+199	Jason Frank	4	E Prepared	True	True	99	1989	Honda Civic	Milw	Central	Hoosier	Mt Pleasant	WI
+99	Craig Mankiewicz	5	E Prepared	False	True	199	1989	Honda Civic Si	Milw	Central	Hoosier	waukesha	WI
+73	Nick Pasternack	6	E Prepared	False	True	173	1990	Honda Civic GT3DX	FLR	Northeast	Hoosier	Rochester	NY
+98	Chris DeLay	7	E Prepared	False	True	198	1999	Honda Civic	KCR	Central	Hoosier	Kansas City	MO
+39	Robert Chrismas	8	E Prepared	False	False	0	1989	Honda Civic Si	NOW	Great Lakes	Avon	Genoa	OH
+49	Michael Hearne	9	E Prepared	False	True	149	1984	Honda Crx	NOW	Great Lakes	Hoosier	Carlsbad	CA
+149	Scott Hearne	10	E Prepared	True	True	49	1984	Honda CRX	NOW	Great Lakes	Hoosier	Massillon	OH
+86	Tom OGorman	1	F Prepared	True	True	186	2004	Honda S2000	OVR	Great Lakes	Hoosier	Mason	OH
+92	Alex Jones	2	F Prepared	True	True	192	2007	Pontiac Solstice GXP	NOW	Great Lakes	Avon	Monclova	OH
+67	Wes Hughson	3	F Prepared	True	True	167	2000	Honda S2000	Wire	Southeast	Hoosier	Panama City	FL
+95	Adam Norton	4	F Prepared	True	True	195	1999	Mazda Miata	KYR	Midwest	Hoosier	Sellersburg	IN
+87	Taylor George	5	F Prepared	True	True	187	2001	Honda S2000	MISS	Midwest	Hoosier	Clinton	MS
+167	Jesse Waymire	6	F Prepared	True	True	67	2000	Honda S2000	Wire	Southeast	Hoosier	Panama City	FL
+187	Kerry Coughlin	7	F Prepared	False	True	87	2002	Honda s2000	Delt	Southwest	Hoosier	Prairieville	LA
+195	Shawn Lambert	8	F Prepared	False	True	95	2004	Mazda Miata	KYR	Great Lakes	Hoosier	Fisherville	KY
+186	David Montgomery	9	F Prepared	False	True	86	2004	Honda S2000	CIN	Midwest	Hoosier	Montgomery	OH
+192	Caius Boboescu	10	F Prepared	True	True	19	2007	Pontiac Solstice	SVR	Great Lakes	Avon	Plymouth	MI
+99	Matthew Peck	11	F Prepared	True	True	199	1974	Datsun 280Z	LnSt	Southwest	Hoosier*	Austin	TX
+47	Michael Tews	12	F Prepared	True	False	0	1973	Datsun 240Z	Milw	Central	Hoosier	Sussex	WI
+199	Tom Holt	13	F Prepared	True	True	99	1974	Datsun 280Z	LnSt	Southwest	Hoosier*	Round Rock	Tx
+180	Keith Roberts	14	F Prepared	True	True	80	1973	Datsun 240z	DET	Great Lakes	Avon	Wolverine Lake	MI
+61	Richard Grav	15	F Prepared	True	False	0	2007	Pontiac Solstice	SIR	Central	Hoosier	Vincennes	IN
+37	Paul Ryan	16	F Prepared	True	True	137	2009	Nissan 370Z	Almo	Southwest	Hoosier	Helotes	TX
+80	Larry Kurtz	17	F Prepared	True	False	0	1973	Datsun 240z	NOW	Great Lakes	Avon	Pemberville	OH
+84	Jonathan Griffith	18	F Prepared	True	False	0	1984	Mazda Rx7	KCR	Midwest	Hoosier*	Gardner	KS
+92	Charina Jones	1	F Prepared Ladies	True	False	0	2007	Pontiac Solstice GXP	NOW	Great Lakes	Avon	Monclova	OH
+19	Tammy Breece	2	F Prepared Ladies	False	True	19	1993	BMW 325i	DET	Great Lakes	Hoosier	Waterford	MI
+85	David OMaley	1	A Modified	True	True	185	2018	PSS	Atl	Southeast	Avon*	Loveland	OH
+185	Jenny OMaley	2	A Modified	True	True	85	2018	PSS Black	CIN	Great Lakes	Avon*	Loveland	OH
+64	Robert Barone	3	A Modified	False	False	0	1995	CK/Dragon CK/Drago	NER	Northeast	Avon*	Ellington	CT
+38	William Goodale	4	A Modified	False	False	0	1998	dragon F1	NER	Northeast	Hoosier	Milford	MA
+38	Matthew Ellam	1	B Modified	True	True	138	1998	Omnifab Cheetah	SFR	NorPac	Avon*	Boulder Creek	CA
+193	Zachary Moore	2	B Modified	True	True	93	1977	LeGrand MK18	Milw	Central	Avon	Hartland	WI
+165	Dan Cyr	3	B Modified	True	True	65	2019	Lamm Mk V	CHI	Central	Hoosier	Northbrook	IL
+138	Tom Ellam	4	B Modified	True	True	38	1998	Omnifab Cheetah	SFR	NorPac	Avon*	Livermore	CA
+189	Jim Garry	5	B Modified	False	True	89	1998	Cheetah SR1	MHR	Northeast	Hoosier*	Delmar	NY
+93	Marshall Moore	6	B Modified	False	True	193	1977	LeGrand Mk 18	Milw	Central	Avon	Hartland	WI
+55	Rich Grupp	7	B Modified	False	True	155	2014	Haviland	Atl	Southeast	Hoosier*	Lawrenceville	GA
+89	Ken Hurd	8	B Modified	False	True	189	1998	Cheetah SR1	MHR	Northeast	Multi	Hinesburg	VT
+49	Kyriacos Panayiotou	9	B Modified	False	False	0	1976	LeGrand MK18	SnRv	NorPac	Avon*	Boise	ID
+65	Kenton Cabiness	10	B Modified	True	True	165	2019	LAMM MK V	CHI	Central	Hoosier	Oswego	IL
+94	Anthony Porta	1	C Modified	True	True	194	1994	Honda Van Diemen	CSCC	SoPac	Hoosier	yorba linda	CA
+195	Ben Martinez	2	C Modified	True	True	95	1984	Van Diemen RF84	SFR	NorPac	Hoosier	San Jose	CA
+194	Eric Clements	3	C Modified	True	True	94	1994	Honda Van Diemen	CSCC	SoPac	Hoosier	Pasadena	CA
+96	David Fauth	5	C Modified	True	True	196	1995	Van Diemen Honda	F	Rocky Moun	Hoosier	Windsor	CO
+193	Corey Dyck	6	C Modified	False	True	93	1985	Citation Formula Ford	Badl	Central	Hoosier	Dugald	MB
+196	Barry Ott	7	C Modified	False	True	96	1995	Van Diemen Honda F	CDR	Rocky Moun	Hoosier	Elizabeth	CO
+78	David Thomas	8	C Modified	False	False	0	1983	Reynard Formula Ford	NER	Northeast	Hoosier	Natick	MA
+71	John Ryan	9	C Modified	False	True	171	1974	Dulon MP15	STC	Northeast	Hoosier	Delmont	PA
+46	Joshua Parker	10	C Modified	True	True	146	1985	Reynard Formula Ford	NER	Northeast	Hoosier	Rindge	NH
+95	Jaime Mendoza	11	C Modified	True	True	195	1984	Van Diemen RF84	SFR	NorPac	Hoosier	San Jose	CA
+90	Chuck Pyanowski	12	C Modified	True	False	0	1986	Van Diemen RF86	SCR	Southeast	Hoosier	Summerville	SC
+31	Brent Cary	13	C Modified	True	False	0	1988	reynard ff1600	IND	Great Lakes	Hoosier*	Indianapolis	IN
+93	David Flesher	14	C Modified	True	True	193	1985	Pruvime Knotslough C	Bucc	Southeast	Hoosier	Fleming Island	FL
+146	Stacey Strout	15	C Modified	True	True	46	1985	Reynard Formula Ford	NER	Northeast	Hoosier	Rindge	NH
+4	Vernon Maxey	16	C Modified	True	False	0	2004	Solo Vee LynxB	KCR	Midwest	Hoosier	Edwardsville	KS
+83	Sue Eckles	1	C Modified Ladies	True	False	0	1983	Reynard Formula Ford	NEB	Midwest	Hoosier	Malcolm	NE
+94	Mari Clements	2	C Modified Ladies	False	False	0	1994	Honda Van Diemen	CSCC	SoPac	Hoosier	Pasadena	CA
+98	Eric Prill	1	D Modified	True	True	198	2002	Locost Acura 7/Acura	KAN	Midwest	Hoosier	Topeka	KS
+99	Mark Huffman	2	D Modified	True	False	0	1965	Lotus Elan	AZ	SoPac	Hoosier	Litchfield Park	AZ
+198	Bob Tunnell	3	D Modified	True	True	98	2002	Locost 7	Colo	Rocky Moun	Hoosier	Superior	CO
+156	Jeremy Ellerby	4	D Modified	True	True	56	1956	Jeep DJ3A	Iowa	Central	Hoosier	Marion	IA
+94	Shane Chinonn-Rhoden	5	D Modified	True	True	194	2019	Stalker AXR	WDC	Northeast	Avon*	Laurel	MD
+56	Chris Kunkel	6	D Modified	False	True	156	1956	Jeep DJ3A	WNY	Northeast	Hoosier	Orchard Park	NY
+78	Jeff Ellerby	7	D Modified	False	True	178	1984	Sprinto RC 1.4T	Iowa	Central	Hoosier	Marion	IA
+194	Brian Garfield	8	D Modified	False	True	94	2019	Stalker AXR	Honda	Northeast	Avon*	Harpers Ferry	WV
+77	Stephen Brinkerhoff	9	D Modified	False	False	0	2006	Ultralite XR7	IND	Great Lakes	Avon*	Plainfield	IN
+1	Ted Lewis	10	D Modified	True	True	101	1965	Lotus elan	AZ	SoPac	Hoosier	New River	AZ
+178	Darin Long	11	D Modified	True	True	78	1984	Sprinto RC 0	Iowa	Central	Hoosier	Waterloo	IA
+39	Alan Rae	12	D Modified	True	False	0	1991	Caterham Super 7	Nwst	NorPac	Avon*	Calgary	AB
+101	Elliot Speidell	13	D Modified	True	True	1	1965	Lotus Elan	AZ	SoPac	Hoosier	Surprise	AZ
+114	Alex Jackson	14	D Modified	True	True	14	2017	Exomotive Exocet	NER	Northeast	Hoosier	Shirley	MA
+14	Jason Fair	15	D Modified	True	True	114	2017	Exomotive Exocet	NER	Northeast	Hoosier	Wendell	MA
+98	Patty Tunnell	1	D Modified Ladies	True	False	0	2002	Locost Acura 7	Colo	Rocky Moun	Hoosier	Superior	CO
+94	Lisa Garfield	2	D Modified Ladies	True	False	0	2019	Stalker AXR	Honda	Northeast	Avon	Harpers Ferry	WV
+78	Teresa Ellerby	3	D Modified Ladies	False	False	0	1984	Sprinto RC 1.4T	Iowa	Central	Hoosier	Marion	IA
+77	Wanda Brinkerhoff	4	D Modified Ladies	False	False	0	2006	Ultralite XR7	IND	Great Lakes	Avon	Plainfield	In
+43	Jeff Kiesel	1	E Modified	True	True	143	2014	KFR Turbo Sprite	CSCC	SoPac	Avon	Poway	CA
+178	Jason Minehart	2	E Modified	True	True	78	2014	Stalker M-Spec AXR	LnSt	Southwest	Avon*	Cedar park	TX
+199	Mark Sawatsky	3	E Modified	True	True	99	1969	MG B	NEB	Central	Hoosier	Winnipeg	MB
+151	Nathan Gordon	4	E Modified	True	True	51	2014	Stalker m-Spec AXR	Wire	Southeast	Avon*	Newton	AL
+78	Jason Kupka	6	E Modified	False	True	178	2014	Stalker M-Spec AXR	LnSt	Southwest	Avon*	Austin	TX
+99	Briget Sawatsky	7	E Modified	False	True	199	1967	MG GT	Badl	Central	Hoosier	Winnipeg	MB
+156	Peter Raymond	8	E Modified	False	True	56	1946	Jeep YC-J	CDR	Rocky Moun	Avon*	Loveland	CO
+143	Mark Kiesel	9	E Modified	False	True	43	2014	KFR Turbo	Sprite	Unknown	Avon		
+27	Gregory Vincent	10	E Modified	True	True	127	2017	Stalker AXR	STC	Northeast	Hoosier	EXPORT	PA
+51	Glen Minehart	11	E Modified	True	True	151	2014	Stalker M-Spec AXR	Dix	Southeast	Avon*	Brooksville	FL
+53	Randy Hickman	12	E Modified	True	True	153	1979	Chevrolet Corvette	Colo	Rocky Moun	Hoosier	Wellington	CO
+153	Sean Clark	13	E Modified	True	True	53	1979	Chevrolet Corvette	Colo	Rocky Moun	Hoosier	Fort Collins	CO
+143	Shawn Kiesel	1	E Modified Ladies	True	True	43	2014	KFR Turbo Sprite	CSCC	SoPac	Avon	Poway	ca
+51	Krista Minehart	2	E Modified Ladies	False	False	0	2014	Stalker M-Spec AXR	Bucc	Southeast	Avon*	Brooksville	FL
+43	Kaila Kiesel	3	E Modified Ladies	False	True	143	2014	KFR Turbo Sprite	CSCC	SoPac	Avon	Poway	CA
+194	Zak Kiesel	1	F Modified	True	True	94	2015	Raptor F-500	CSCC	SoPac	Hoosier	Poway	CA
+199	Jason Hobbs	2	F Modified	True	True	99	1999	Novakar J9	LOL	Midwest	Hoosier	Saint Michael	MN
+193	Will Lahee	3	F Modified	True	True	93	2019	MP4/4 Red Devil	IND	Great Lakes	Hoosier	Noblesville	IN
+88	Dan Wheeler	4	F Modified	True	True	188	2020	DoofWagon	KCR	Midwest	Hoosier	Independence	MO
+188	Brad Smith	5	F Modified	True	True	88	2020	DoofWagon	KCR	Midwest	Hoosier	kansas city	mo
+91	Justin Barbry	6	F Modified	True	True	191	2001	Novakar J9	NCR	Southeast	Hoosier	Jamestown	NC
+196	Michelle Quinn	7	F Modified	True	True	96	1995	KBS MK7	CFR	Southeast	Hoosier	Land O Lakes	Fl
+65	Radlee Bien	8	F Modified	True	False	0	2002	Red devil	SAL	Midwest	Hoosier	BENTONVILLE	AR
+99	Matt Murphy	9	F Modified	True	True	199	1999	Novakar J9	LOL	Great Lakes	Hoosier	Minneapolis	MN
+192	Matt Feeney	10	F Modified	True	True	92	2008	Novakar	BRR	Southeast	Hoosier	Lexington	NC
+191	Michael Feeney	11	F Modified	True	True	91	2001	Novakar J9	NCR	Southeast	Hoosier	Sumter	SC
+96	Jeff Blumenthal	12	F Modified	True	True	196	1995	KBS Mk7	NEO	Great Lakes	Hoosier	Independence	OH
+135	Gary Kramar	14	F Modified	True	True	35	2007	Zink F500	Tex	Southwest	Hoosier	Arlington	TX
+93	Josh Kikta	15	F Modified	True	True	193	2019	Red Devil MP4/4	IND	Great Lakes	Hoosier	Cicero	IN
+94	Heyward Wagner	16	F Modified	True	True	194	2015	Raptor F-500	Atl	Southeast	Hoosier	Weaverville	NC
+187	Keith Beumer	17	F Modified	True	True	87	2009	Demon F500	LOL	Central	Hoosier	Farmington	MN
+87	Mark Yakich	18	F Modified	True	True	187	2016	Demon F500	AZB	Southwest	Hoosier	Sioux Falls	SD
+35	Phillip Penner	19	F Modified	True	True	135	2007	Zink F500	Tex	Southwest	Hoosier	North Richland Hills	TX
+174	Nick Sullivan	20	F Modified	True	True	74	2004	KBS Invader	DET	Great Lakes	Hoosier	New Boston	MI
+74	Tom Buckman	24	F Modified	True	True	174	2004	Invader F500	SVR	Great Lakes	Hoosier*	Gaylord	Mi
+15	Steven Ekstrand	25	F Modified	True	False	0	2015	Honda Wildcat	CSCC	SoPac	Hoosier	PASADENA	CA
+138	Bill Crawford	26	F Modified	True	True	38	1995	KBS Ramblebee MK-	CHI	Central	Hoosier	Naperville	IL
+25	Kevin McEnhill	27	F Modified	True	False	0	1988	KBS Mk IV	NEB	Midwest	Hoosier*	Bellevue	NE
+38	Chris Perry	29	F Modified	True	True	138	1995	KBS Ramblebee Mk-7	CHI	Central	Hoosier	Chicago	IL
+16	Tony Gentile	30	F Modified	True	False	0	1992	KBS Raamble Bee F5	MBR	Great Lakes	Hoosier	Waterford	PA
+99	Kencey Christopher	1	F Modified Ladies	True	False	0	1999	NovaKar J9	Tex	Southwest	Hoosier	Rowlett	TX
+88	Andrea Albin	2	F Modified Ladies	True	True	88	2020	Doof Wagon	SILR	Midwest	Hoosier	Ypsilanti	MI
+91	Trisha Feeney	3	F Modified Ladies	False	True	191	2001	Novakar J9	NCR	Southeast	Hoosier	Sumter	SC
+191	Susan Grunenwald	5	F Modified Ladies	False	True	91	2001	Novakar J9	BRR	Southeast	Hoosier	lexington	NC
+15	Stacey Miller	6	F Modified Ladies	False	False	0	2015	Honda Wildcat	CSCC	SoPac	Hoosier	Pasadena	CA
+119	John Price	1	Formula SAE	True	True	19	2019	UTA Racing F19	Tex	Southwest	Hoosier	Mansfield	TX
+121	Julian Garfield	2	Formula SAE	True	True	21	2019	Jayhawk Motorsports J	WDC	Northeast	Continental*	Mount Airy	MD
+16	Nicolas Daly	3	Formula SAE	True	True	116	2016	UTA Racing F16	Tex	Central	Hoosier	Fort Worth	TX
+19	Timothy Stevens	4	Formula SAE	True	True	119	2019	UTA F19	Tex	Southwest	Hoosier	Arlington	TX
+43	Trever McDermott	5	Formula SAE	False	True	143	2008	Honda WWU VRI VI	Nwst	NorPac	Hoosier	Anacortes	WA
+143	Jared Floyd	6	Formula SAE	False	True	43	2008	Honda WWU VRI VI	Nwst	NorPac	Hoosier	Ferndale	WA
+116	Christopher Dunn	7	Formula SAE	False	True	16	2016	UTA F16	Tex	Central	Hoosier	Arlington	TX
+196	Alexandre Zugazagoitia	8	Formula SAE	False	True	96	2017	Jayhawk Motorsports J	KCR	Midwest	Continental*	Prairie Village	KS
+87	Mark Rowland	9	Formula SAE	False	False	0	2019	Powercat Motorsports L	KCR	Midwest	Hoosier*	Overland Park	KS
+96	Mason Lieb	10	Formula SAE	True	True	196	2017	Jayhawk Motorsports J	KAN	Midwest	Continental*	Lawrence	KS
+33	Larry MacLeod	1	Kart Modified	True	True	133	2014	Mod-Moto Tonykart	SVR	Great Lakes	MG*	Ypsilanti	MI
+44	Daniel Wendel	2	Kart Modified	True	False	0	1976	Ford F350 Stairtruck	CCR	Southeast	Bridgestone*	Burlington	NC
+31	Ryan Lower	3	Kart Modified	True	False	0	2003	Honda/CRG Road Reb	CPR	Northeast	MG*	State College	PA
+194	Tom Harrington	4	Kart Modified	True	True	94	2018	CRG Kart Road Rebel	LnSt	Southwest	MG*	Austin	TX
+94	Eric Nelson	5	Kart Modified	True	True	194	2018	CRG Kart Road Rebel	CSCC	SoPac	MG*	Pasadena	CA
+68	Scott Boito	6	Kart Modified	False	True	168	2008	Mike Wilson Honda	ETR	Southeast	MG*	Kingsport	TN
+133	Michael Burns	7	Kart Modified	False	True	33	2014	Honda TonyKart	DET	Great Lakes	MG*	Dexter	MI
+7	Alex Fullerton	8	Kart Modified	False	True	17	2008	CRG Kart Road Rebel	SVR	Midwest	MG*	Saginaw	MI
+22	Sam Dougherty	9	Kart Modified	False	False	0	2004	Intrepid Kart Explorer	CCR	Southeast	Bridgestone	Clemmons	NC
+56	Paul Durr	10	Kart Modified	True	False	0	2012	Honda CRG RdRbl	LV	SoPac	MG*	Las Vegas	NV
+159	Sheldon Ekstrand	11	Kart Modified	True	True	59	2013	Honda EnergyCorse	CSCC	Southwest	MG*	Canoga Park	CA
+86	Ted Visscher	12	Kart Modified	True	False	0	2007	TonyKart Krypton	ETR	Southeast	Hoosier	Powell	TN
+40	Eric Less	13	Kart Modified	True	False	0	2004	PCR Red Rocket	Iowa	Midwest	MG*	Cedar Rapids	IA
+17	Alan Sheidler	14	Kart Modified	True	True	7	1999	Honda/Renspeed Shif	NOW	Great Lakes	MG*	Rochester Hills	MI
+168	Colin Sheidler	15	Kart Modified	True	True	68	1999	Honda /Renspeed	NOW	Great Lakes	MG*	Rochester Hills	MI
+59	Tim Brueske	16	Kart Modified	True	True	159	2005	Honda Intrepid	STL	Midwest	MG*	Villa Ridge	MO
+90	Robert Ekstrand	17	Kart Modified	True	False	0	2013	Honda EnergyCorse	CSCC	SoPac	MG*	Pasadena	CA
+11	Kristina Clark	2	Kart Modified Ladies	True	False	0	1997	Renspeed RS125	Colo	Rocky Moun	MG	Littleton	CO
+90	Crista Downey	3	Kart Modified Ladies	False	False	0	2013	Honda EnergyCorse	CSCC	Southwest	MG	Canoga Park	CA
+7	Caroline Fullerton	4	Kart Modified Ladies	False	False	0	2008	CRG Kart Road Rebel	SVR	Great Lakes	MG	Saginaw	MI
+81	Mason Herrick	1	Formula Junior A	True	False	0	2006	CRG Kart Santana	NEB	Midwest	MG	McPherson	KS
+82	Carter Heaton	2	Formula Junior A	True	False	0	2006	Tony Kart	NEB	Midwest	MG	Omaha	NE
+41	Erika McKee	3	Formula Junior A	True	False	0	2003	Emmick Kart	SFR	NorPac	MG	Livermore	CA
+12	Robbie Campbell	4	Formula Junior A	False	False	0	2013	Sodi Kart Clesta	PHL	Northeast	MG	Glenmoore	PA
+98	Conner Herrick	5	Formula Junior A	False	False	0	2010	CRG Kart Black Star	NEB	Midwest	MG	McPherson	KS
+92	Ethan Fudge	6	Formula Junior A	False	False	0	2013	Tony Kart	SanD	SoPac	MG	San Diego	CA
+27	Nicholas Houliaras	8	Formula Junior A	False	False	0	1999	CRG Kart Forza	PHL	Northeast	MG	Stratford	NJ
+48	Abigail Dorsey	9	Formula Junior A	False	False	0	2006	Arrow Kart AX7	Colo	Rocky Moun	MG	Littleton	CO
+79	Olivia Hammac	1	Formula Junior B	True	False	0	2016	Margay Kart Ignite K3	CFR	Southeast	MG	Cape Canaveral	FL
+90	Max Knop	2	Formula Junior B	True	False	0	2007	CRG Kart	NEB	Midwest	MG	Lincoln	NE
+99	Hudson Heaton	3	Formula Junior B	True	False	0	2006	Birel Kart	NEB	Midwest	MG	Omaha	NE
+41	Alana McKee	4	Formula Junior B	False	False	0	2003	Emmick Kart	SFR	NorPac	MG	Livermore	CA
+91	Ethan Turpin	5	Formula Junior B	False	True	191	1999	CRG Kart Kalifornia	ARK	Midwest	MG	MAYFLOWER	AR
+61	Zachary Minehart	6	Formula Junior B	False	False	0	2014	Kosmic World Formul	CFR	Southeast	MG	Clearwater	FL
+7	Jacob Houliaras	7	Formula Junior B	False	False	0	2004	Track Magic Kart Cad	PHL	Northeast	MG	Stratford	NJ
+1	Jadrice Toussaint	1	Classic American Muscle Sport	True	True	101	2017	Chevrolet Grandsport	CCR	Southeast	BFGoodrich	Charlotte	NC
+198	David Lousteau	2	Classic American Muscle Sport	True	True	98	1965	AC Shelby Cobra	ARK	Central	BFGoodrich	Sherwood	AR
+145	Justin Peachey	3	Classic American Muscle Sport	True	True	45	2007	Chevrolet Corvette Z0	SUS	Northeast	BFGoodrich	Manheim	Pa
+101	Jon Nwanagu	4	Classic American Muscle Sport	True	True	1	2017	Chevrolet Grandsport	CCR	Southeast	BFGoodrich	Columbia	SC
+171	Scott McHugh	5	Classic American Muscle Sport	True	True	71	2019	Chevrolet Grand Sport	CSCC	SoPac	BFGoodrich	Santa Clarita	CA
+199	David Rock	6	Classic American Muscle Sport	True	True	99	2001	Chevrolet Corvette Z0	AZB	SoPac	BFGoodrich	Tucson	AZ
+95	Eric Brown	7	Classic American Muscle Sport	True	False	0	2002	Chevrolet Corvette Z0	KYR	Great Lakes	BFGoodrich	La Grange	KY
+45	Eric Peachey	8	Classic American Muscle Sport	False	True	145	2007	Chevrolet Corvette	SUS	Northeast	BFGoodrich	Manheim	PA
+80	Hunter Poole	9	Classic American Muscle Sport	False	True	180	2017	Chevrolet Corvette Gr	DET	Great Lakes	BFGoodrich	Commerce Township	MI
+98	David Lousteau Sr.	10	Classic American Muscle Sport	True	True	198	1965	FFR AC Cobra	ARK	Central	BFGoodrich	Hot Springs	AR
+9	Steve Waters	11	Classic American Muscle Sport	True	False	0	2017	Chevrolet Corvette	Atl	Southeast	BFGoodrich	Smyrna	GA
+99	Kerry Gonzales	12	Classic American Muscle Sport	True	True	199	2001	Chevrolet Corvette Z0	AZ	SoPac	BFGoodrich	Tucson	AZ
+102	Jeff Bakken	13	Classic American Muscle Sport	True	True	2	2017	Chevrolet Corvette	NER	Northeast	BFGoodrich	Treelandia	Nh
+180	Stefan Frick	14	Classic American Muscle Sport	True	True	80	2017	Chevrolet Corvette GS	DET	Great Lakes	BFGoodrich	West Bloomfield	MI
+90	Clay Turner	15	Classic American Muscle Sport	True	True	90	2006	Factory Five Cobra	CDR	Rocky Moun	Bridgestone	Colorado Springs	CO
+81	Zach Driver	16	Classic American Muscle Sport	True	True	181	2004	Chevrolet Corvette Z0	Hous	Southwest	BFGoodrich	Houston	TX
+93	Kevin Keys	17	Classic American Muscle Sport	True	True	93	2000	Chevrolet Corvette	FWR	Great Lakes	Bridgestone	Fort Wayne	IN
+71	Vernon Jolley	18	Classic American Muscle Sport	True	True	171	2019	Chevrolet Corvette Gr	Utah	Rocky Moun	BFGoodrich	Sandy	UT
+181	Kent Kroll	19	Classic American Muscle Sport	True	True	81	2004	Chevrolet C5 Z06	Hous	Southwest	BFGoodrich	Spring	TX
+88	Jeff Vineyard	20	Classic American Muscle Sport	True	False	0	2004	Chevrolet Corvette	Almo	Central	BFGoodrich	Mico	TX
+66	James Nichols	21	Classic American Muscle Sport	True	False	0	2004	Chevrolet Corvette Z0	SIR	Midwest	BFGoodrich	Evansville	IN
+2	Steve Belliveau	22	Classic American Muscle Sport	True	True	102	2017	Chevrolet Corvette	NER	Northeast	BFGoodrich	Newton	MA
+68	Kent Radford	23	Classic American Muscle Sport	True	False	0	1995	Chevrolet Corvette	NEB	Midwest	Multi	Omaha	NE
+188	Mike Johnson	1	Classic American Muscle Contempory	True	True	88	2017	Chevrolet Camaro 1L	BMR	Southeast	BFGoodrich	Glen Allen	VA
+130	James Paulson	2	Classic American Muscle Contempory	False	True	30	2018	Ford Mustang GT	Ore	NorPac	Bridgestone	Portland	OR
+189	Alexander Doss	3	Classic American Muscle Contempory	False	True	89	2018	Cadillac ATS-V	DET	Great Lakes	BFGoodrich	Ferndale	MI
+199	Scott Steider	4	Classic American Muscle Contempory	False	True	99	2017	Ford Mustang GT	Tex	Southwest	BFGoodrich	Hickory Creek	TX
+5	Don Slevin	5	Classic American Muscle Contempory	False	False	0	2016	Ford Mustang GT	NNJ	Northeast	Bridgestone	Spring Valley	NY
+182	J.J. Mallrich	6	Classic American Muscle Contempory	False	True	82	1999	Chevrolet Camaro Z28	STL	Midwest	Bridgestone	Highland	IL
+186	Paul Townsend	7	Classic American Muscle Contempory	False	True	86	2020	Chevrolet Camaro LT	DET	Great Lakes	BFGoodrich	Fenton	MI
+99	Matt Lucas	8	Classic American Muscle Contempory	False	True	199	2017	Ford Mustang	Tex	Southwest	BFGoodrich	Keller	TX
+28	David Feighner	9	Classic American Muscle Contempory	False	True	128	2015	Ford Mustang	SVR	Great Lakes	BFGoodrich	Howell	MI
+198	Randy Adkins	10	Classic American Muscle Contempory	True	True	98	2016	Ford Shelby GT350	ETR	Southeast	BFGoodrich	Powell	TN
+98	James Thomas	11	Classic American Muscle Contempory	False	True	198	2016	Ford Mustang GT350	ETR	Southeast	BFGoodrich	Parrottsville	TN
+57	John Laughlin	12	Classic American Muscle Contempory	False	False	0	2016	Chevrolet Camaro	NOW	Great Lakes	Bridgestone	Nashville	TN
+89	Tyler Chantrenne	13	Classic American Muscle Contempory	False	True	189	2018	Cadillac ATS-V	DET	Great Lakes	BFGoodrich	Walled Lake	MI
+176	Cody Grissom	14	Classic American Muscle Contempory	False	True	76	2017	Chevrolet Camaro SS 1	OKLA	Central	Bridgestone*	Mustang	Ok
+96	Brian Johns	15	Classic American Muscle Contempory	False	True	92	2010	Ford Mustang GT 500	TEN	Southeast	BFGoodrich	Milton	TN
+86	Karl Riggs	16	Classic American Muscle Contempory	False	True	186	2020	Chevrolet Camaro LT	DET	Great Lakes	BFGoodrich	Utica	MI
+32	James Hodges	17	Classic American Muscle Contempory	False	False	0	2018	Chevrolet Camaro	NEB	Midwest	Bridgestone	Bellevue	NE
+95	Robert Gosda	18	Classic American Muscle Contempory	False	False	0	2013	Ford Mustang	CHI	Central	BFGoodrich	Yorkville	IL
+27	Robert Stanley	19	Classic American Muscle Contempory	False	False	0	2017	Ford Mustang GT	Colo	Rocky Moun	Bridgestone	Highlands Ranch	CO
+82	Carlton Griggs	20	Classic American Muscle Contempory	False	True	182	1999	Chevrolet Camaro Z28	SJR	Northeast	Bridgestone	Mantua	NJ
+139	Dave Whitworth	21	Classic American Muscle Contempory	False	True	39	2012	Ford Mustang	NEB	Midwest	BFGoodrich	saint louis	MO
+39	Brian Meyer	22	Classic American Muscle Contempory	False	True	139	2012	Ford Mustang	KCR	Unknown	BFGoodrich	Kansas City	MO
+87	Raleigh Boreen	23	Classic American Muscle Contempory	False	True	187	2002	Chevrolet Z28 Camaro	IND	Great Lakes	BFGoodrich	Westfield	IN
+56	Corey Pettett	24	Classic American Muscle Contempory	False	False	0	2012	Ford Mustang	ARK	Midwest	BFGoodrich	Alexander	AR
+14	David Gushwa	25	Classic American Muscle Contempory	False	False	0	2012	Ford Boss 302	SBR	Great Lakes	BFGoodrich	Mishawaka	IN
+91	Terry Brown	26	Classic American Muscle Contempory	False	False	0	2002	Ford Mustang GT	Colo	Rocky Moun	Bridgestone*	Fort Collins	CO
+76	Mark Grissom	27	Classic American Muscle Contempory	False	True	176	2017	Chevrolet CAMARO S	OKLA	Southwest	Bridgestone*	Mustang	OK
+17	Jeff Wagenknecht	28	Classic American Muscle Contempory	False	False	0	2007	Ford Mustang GT	GtRv	Central	Bridgestone	Davenport	IA
+23	Jeremy Scotton	29	Classic American Muscle Contempory	False	False	0	2011	Chevrolet 5th Gen Cam	KCR	Midwest	BFGoodrich	Olathe	KS
+10	Joe Johnson	30	Classic American Muscle Contempory	False	False	0	1997	Chevrolet Camaro	Iowa	Midwest	BFGoodrich	Grundy Center	ia
+190	Bryan Packingham	31	Classic American Muscle Contempory	False	True	90	2016	Ford mustang	Iowa	Central	BFGoodrich	Cedar Rapids	IA
+128	Lorien Feighner	32	Classic American Muscle Contempory	False	True	28	2015	Ford Mustang	SVR	Great Lakes	BFGoodrich	Howell	MI
+9	Curt Luther	33	Classic American Muscle Contempory	False	False	0	2018	Chevrolet Carmaro	CSCC	SoPac	Bridgestone	Beaumont	CA
+30	Danielle Paulson	34	Classic American Muscle Contempory	False	True	130	2018	Ford Mustang GT	Ore	NorPac	Bridgestone	Portland	OR
+187	Velma Boreen	35	Classic American Muscle Contempory	False	True	87	2002	Chevrolet Camaro	IND	Great Lakes	BFGoodrich	WESTFIELD	IN
+90	Leah Julich	36	Classic American Muscle Contempory	False	True	190	2016	Ford mustang	Iowa	Central	BFGoodrich	Cedar Rapids	IA
+88	Robert Weathers	37	Classic American Muscle Contempory	False	True	188	2017	Chevrolet Camaro SS 1	Almo	Southwest	BFGoodrich	Gonzales	TX
+72	Keith Lamming	1	Classic American Muscle Traditional	True	True	172	1968	Chevrolet Camaro	KCR	Midwest	BFGoodrich	Raymore	MO
+95	Chris Cargill	2	Classic American Muscle Traditional	True	True	195	1985	Chevrolet Camaro	Hous	Southwest	BFGoodrich	Friendswood	TX
+195	Wayne Atkins	3	Classic American Muscle Traditional	True	True	95	1985	Chevrolet Camaro	Tex	Southwest	BFGoodrich	Double Oak	TX
+28	Steve Seymore	4	Classic American Muscle Traditional	True	True	128	1990	Ford Mustang	Dix	Southeast	BFGoodrich	Tallahassee	FL
+128	Rob Ippolito	5	Classic American Muscle Traditional	True	True	28	1990	Ford Mustang	Dix	Southeast	BFGoodrich	Tallahassee	FL
+89	John Williams	6	Classic American Muscle Traditional	True	False	0	1989	Ford Mustang 5.0	NEB	Midwest	Bridgestone*	Omaha	NE
+133	Mike Trenkle	7	Classic American Muscle Traditional	False	True	33	1982	Ford Mustang	Colo	Rocky Moun	BFGoodrich	Elizabeth	CO
+172	Patrick Darling	8	Classic American Muscle Traditional	False	True	72	1968	Chevrolet Camaro	KCR	Midwest	BFGoodrich	Grain Valley	MO
+98	Dennis Bay	9	Classic American Muscle Traditional	False	False	0	1969	Chevrolet Camaro	DET	Great Lakes	BFGoodrich	Livonia	MI
+96	Josh McDonough	10	Classic American Muscle Traditional	True	True	196	1981	Chevrolet Camaro	DET	Great Lakes	Bridgestone*	Novi	MI
+33	Kelley Jaeger	11	Classic American Muscle Traditional	True	True	133	1982	Ford Mustang	Colo	Rocky Moun	BFGoodrich	Elizabeth	CO
+152	Joseph Craley	12	Classic American Muscle Traditional	True	True	52	1989	Ford Mustang lx	NOW	Great Lakes	BFGoodrich	Maumee	OH
+124	Jack Heideman	13	Classic American Muscle Traditional	True	True	24	1967	Ford Falcon Wagon	WMR	Great Lakes	Bridgestone	Holland	MI
+24	Chris Heideman	14	Classic American Muscle Traditional	True	True	124	1967	Ford Falcon Wagon	WMR	Midwest	Bridgestone	Holland	MI
+65	Jeremy Salenius	15	Classic American Muscle Traditional	True	False	0	1965	Ford Mustang	KCR	Midwest	BFGoodrich	Bonner Springs	KS
+52	Joe Craley	16	Classic American Muscle Traditional	True	True	152	1989	Ford Mustang	NOW	Great Lakes	BFGoodrich	toledo	Oh
+196	Ken McDonough	17	Classic American Muscle Traditional	True	True	96	1981	Chevrolet Camaro	STL	Midwest	Bridgestone	Hillsboro	IL
+75	Byron Burnham	18	Classic American Muscle Traditional	True	False	0	1975	Chevrolet Vega	NEB	Central	Falken	Lincoln	NE

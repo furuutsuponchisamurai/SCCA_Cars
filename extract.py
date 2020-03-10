@@ -9,7 +9,7 @@ Created on Thu Nov 14 19:33:40 2019
 #tika.initVM()
 #from tika import parser
 #from tabula import read_pdf
-import re
+import re, csv
 
 #raw = parser.from_file('_data/Nationals_2019.pdf')
 #print(raw['content'])
@@ -18,11 +18,12 @@ import re
 lines = None
 with open('_data/2019_Nationals_Cleaned.txt', 'r') as file:
     lines = file.readlines()
+    lines = [line.strip(" \n") for line in lines]
 
 # Prog has 3
 prog = re.compile(r'(.+)\s(Drivers:)\s(\d{1,2})\s(Trophies:)\s(\d{1,2})')
-r1 = re.compile(r'T{0,1}\s(\d{1,3})\s(\d{1,3})\s(\w.+)\s(\d{4})\s(\w.+)\s(\w+)')
-r2 = re.compile(r"^(M\s)?(\[(\d{1,3})\]\s)?(.+?)\,\s(\w{2})(.+)")
+r1 = re.compile(r'(T{0,1}\s)?(\d{1,3})\s(\d{1,3})\s(\w.+)\s(\d{4})\s(\w.+)\s(\w+)')
+r2 = re.compile(r"^(M\s)?(\[(\d{1,3})\]\s)?(.+?)?\,\s(\w{2})?(.+)")
 ind_times = re.compile(r'(?<!\d{1})(\d{2}\.\d{3})+')
 ind_score = re.compile(r'(\d{3}\.\d{3})')
 test = lines[:150]
@@ -38,48 +39,72 @@ divisions = ["Southwest", "Central", "Rocky Moun", "SoPac", "NorPac", "Northeast
 #
 test1 = lines
 # Process data
-data = []
+data = [['DriverNumber', 'DriverName', 'DriverPosition', 'RaceClass','WonTrophy','IsDoubleDriving','DoubleDriverNumber',
+         'CarYear','Car','Region','Division','Tire','City','State']]
 class_data = []
 driver_class = ''
 trophies = 0
 
-for l in range(0,7008):
+for l in range(0, (len(test1)-3)):
     class_info = prog.search(test1[l])
     if class_info:
         driver_class = class_info[1]
         num_drivers = class_info[3]
         trophies = class_info[5]
-        
+        ddrivers = []
         class_data.append([driver_class, num_drivers, trophies])
         
     dinfo = r1.search(test1[l])
     if dinfo:
         dloc = r2.search(test1[l+1])
         dtimes = ind_times.findall(test1[l+2] + test1[l+3])
-        dscore = ind_score.search(test1[l+2])[1]
+        try:
+            dscore = ind_score.search(test1[l+2])[1]
+        except TypeError:
+            dscore = 0
+            
         tire = test1[l+4]
-        dpos = dinfo[1]
-        dnum = dinfo[2]
-        dname = dinfo[3]
-        dcar_year = dinfo[4]
-        dcar = dinfo[5]
-        dreg = dinfo[6]
+        dpos = dinfo[2]
+        dnum = int(dinfo[3].strip())
+        dname = dinfo[4]
+        dcar_year = dinfo[5]
+        dcar = dinfo[6]
+        dreg = dinfo[7]
+        
         if dloc[3]:
-            doube_drive = True
+            double_drive = True
+            ddnum = int(dloc[3].strip())
+            ddrivers.append((dinfo[3], ddnum))
+            
         elif not dloc[3]:
             double_drive = False
+            ddnum = 0
+            
+        ddiv = 'Unknown'
         for d in divisions:
             if d in dloc[6]:
                 ddiv = d
-            else:
-                ddiv = "Unknown"
-        dcity = dloc[4]
-        dstate = dloc[5]
+        try:
+            dcity = dloc[4]
+            dstate = dloc[5]
+        except TypeError:
+            dcity = ''
+            dtstate = ''
+            
         if class_data[-1][-1] >= dpos:
             hasTrophy = True
         else:
             hasTrophy = False
-
-        data.append([dnum, dname, dpos, class_data[-1][0], hasTrophy, dcar_year, dcar, dreg, ddiv, tire, dcity, dstate])
+            
+        data.append([dnum, dname, dpos, class_data[-1][0], hasTrophy, 
+                     double_drive, ddnum, dcar_year, dcar, dreg, ddiv, tire, dcity, dstate])
         
+        double_drive = None
+        ddnum = None
+#        double_drive_driver = None
+#        double_drive_driver_num = None
         
+with open('_data/NationalsDrivers2019.tsv', 'w') as tsvfile:
+    carwriter = csv.writer(tsvfile, delimiter='\t')
+    for line in data:
+        carwriter.writerow(line)
