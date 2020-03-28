@@ -40,7 +40,7 @@ divisions = ["Southwest", "Central", "Rocky Moun", "SoPac", "NorPac", "Northeast
 test1 = lines
 # Process data
 data = [['DriverNumber', 'DriverName', 'DriverPosition', 'RaceClass','WonTrophy','IsDoubleDriving','DoubleDriverNumber',
-         'CarYear','Car','Region','Division','Tire','City','State']]
+         'CarYear','Manufacturer','Car','Region','Division','Tire','City','State']]
 class_data = []
 driver_class = ''
 trophies = 0
@@ -92,12 +92,23 @@ for l in range(0, (len(test1)-3)):
             dtstate = ''
             
         if class_data[-1][-1] >= dpos:
-            hasTrophy = True
+            hasTrophy = 1
         else:
-            hasTrophy = False
+            hasTrophy = 0
+        
+        if dcar == 'Chevrolet Corvette Z0':
+            dcar = 'Chevrolet Corvette Z06'
             
+        dcar = dcar.split(' ',1)
+        
+        if len(dcar) == 1:
+            dcar.append(dreg)
+        dcar[1] = dcar[1].replace('-','')
+            
+        if dcar[1].upper() in ('SHINSEN','MX5','MIATA', 'MX5 MIATA'):
+            dcar[1] = 'Miata'
         data.append([dnum, dname, dpos, class_data[-1][0], hasTrophy, 
-                     double_drive, ddnum, dcar_year, dcar, dreg, ddiv, tire, dcity, dstate])
+                     double_drive, ddnum, dcar_year, dcar[0],dcar[1], dreg, ddiv, tire, dcity, dstate])
         
         double_drive = None
         ddnum = None
